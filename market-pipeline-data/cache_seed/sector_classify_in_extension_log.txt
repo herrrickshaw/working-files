@@ -1,0 +1,50 @@
+Classifying 1392 new India symbols...
+  [IN] fetching sectors for 1392 symbols (cached: 700)...
+    50/1392 IN sectors processed, 50 results
+    100/1392 IN sectors processed, 100 results
+    150/1392 IN sectors processed, 150 results
+    200/1392 IN sectors processed, 200 results
+    250/1392 IN sectors processed, 250 results
+    300/1392 IN sectors processed, 300 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: DHANI.NS"}}}
+    350/1392 IN sectors processed, 350 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: EQUITAS.NS"}}}
+    400/1392 IN sectors processed, 400 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: FSC.NS"}}}
+    450/1392 IN sectors processed, 450 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: GSCLCEMENT.NS"}}}
+    500/1392 IN sectors processed, 500 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: HINDNATGLS.NS"}}}
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: IDFC.NS"}}}
+    550/1392 IN sectors processed, 550 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: INDSWFTLTD.NS"}}}
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ISEC.NS"}}}
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: IWEL.NS"}}}
+    600/1392 IN sectors processed, 600 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: JPASSOCIAT.NS"}}}
+    650/1392 IN sectors processed, 650 results
+    700/1392 IN sectors processed, 700 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: MANGCHEFER.NS"}}}
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: MAXVIL.NS"}}}
+    750/1392 IN sectors processed, 750 results
+    800/1392 IN sectors processed, 800 results
+    850/1392 IN sectors processed, 850 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: OCCL.NS"}}}
+    900/1392 IN sectors processed, 900 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: PBAINFRA.NS"}}}
+    950/1392 IN sectors processed, 950 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: RANEENGINE.NS"}}}
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: RBL.NS"}}}
+    1000/1392 IN sectors processed, 992 results
+    1050/1392 IN sectors processed, 1042 results
+    1100/1392 IN sectors processed, 1092 results
+    1150/1392 IN sectors processed, 1142 results
+    1200/1392 IN sectors processed, 1192 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATACOFFEE.NS"}}}
+    1250/1392 IN sectors processed, 1236 results
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TV18BRDCST.NS"}}}
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: UMANGDAIRY.NS"}}}
+    1300/1392 IN sectors processed, 1284 results
+    1350/1392 IN sectors processed, 1334 results
+    1392/1392 IN sectors processed, 1376 results
+Done: 1218/1392 got a real sector, 174 Unknown

@@ -1,0 +1,58 @@
+
+======================================================================
+  IN — 1674017 breakout/breakdown days detected (3433 symbols)
+======================================================================
+  flagged as likely unadjusted split/bonus: 692 (0.0%)
+  clean events analyzed: 1673325
+  circuit bound: ±20.0%  ->  violations: 2650 (0.158% of clean events)
+  worst 8 violations:
+    2024-03-04 00:00:00 KAUSHALYA    BREAKOUT_BUY   chg=+8883.33%  close=781.55 prev=8.70
+    2023-10-03 00:00:00 WINSOME      BREAKOUT_BUY   chg=+3750.00%  close=7.70 prev=0.20
+    2025-07-03 00:00:00 SUMEETINDS   BREAKOUT_BUY   chg=+2346.41%  close=95.41 prev=3.90
+    2026-04-20 00:00:00 ARIHANT      BREAKOUT_BUY   chg=+2188.90%  close=907.55 prev=39.65
+    2022-03-29 00:00:00 VISESHINFO   BREAKOUT_BUY   chg=+2000.00%  close=1.05 prev=0.05
+    2024-11-11 00:00:00 ELECTHERM    BREAKOUT_BUY   chg=+1052.91%  close=1100.45 prev=95.45
+    2021-04-07 00:00:00 LCCINFOTEC   BREAKOUT_BUY   chg=+1037.50%  close=4.55 prev=0.40
+    2020-08-18 00:00:00 UVSL         BREAKOUT_BUY   chg=+1000.00%  close=0.55 prev=0.05
+
+======================================================================
+  US — 3518824 breakout/breakdown days detected (4925 symbols)
+======================================================================
+  flagged as likely unadjusted split/bonus: 3315 (0.1%)
+  clean events analyzed: 3515509
+  no flat circuit bound for US — distribution of clean |change%|:
+    p50.0: 1.44%
+    p90.0: 7.37%
+    p99.0: 29.51%
+    p99.9: 99.64%
+    p100.0: 99999899.59%
+  events >50% (still plausible for US, no hard cap): 12218 (0.348%)
+
+======================================================================
+  JP — 3250251 breakout/breakdown days detected (3060 symbols)
+======================================================================
+  flagged as likely unadjusted split/bonus: 5 (0.0%)
+  clean events analyzed: 3250246
+  no flat circuit bound for JP — distribution of clean |change%|:
+    p50.0: 1.25%
+    p90.0: 4.21%
+    p99.0: 11.86%
+    p99.9: 23.33%
+    p100.0: 1977126364.05%
+  events >50% (still plausible for JP, no hard cap): 66 (0.002%)
+
+======================================================================
+  KR — 1989615 breakout/breakdown days detected (2591 symbols)
+======================================================================
+  flagged as likely unadjusted split/bonus: 76 (0.0%)
+  clean events analyzed: 1989539
+  circuit bound: ±30.0%  ->  violations: 1709 (0.086% of clean events)
+  worst 8 violations:
+    2016-03-02 00:00:00 001470.KS    BREAKOUT_BUY   chg=+4900.00%  close=905000.00 prev=18100.00
+    2024-04-18 00:00:00 016670.KQ    BREAKOUT_BUY   chg=+2997.67%  close=6660.00 prev=215.00
+    2026-04-06 00:00:00 196490.KQ    BREAKOUT_BUY   chg=+2903.00%  close=6096.10 prev=203.00
+    2025-09-01 00:00:00 241820.KQ    BREAKOUT_BUY   chg=+2027.66%  close=6425.53 prev=302.00
+    2020-08-18 00:00:00 192410.KQ    BREAKOUT_BUY   chg=+1429.41%  close=49920.00 prev=3264.00
+    2025-04-01 00:00:00 352770.KQ    BREAKOUT_BUY   chg=+1402.32%  close=7346.33 prev=489.00
+    2024-04-01 00:00:00 031860.KQ    BREAKOUT_BUY   chg= +922.35%  close=1830.00 prev=179.00
+    2024-08-27 00:00:00 043100.KQ    BREAKOUT_BUY   chg= +917.91%  close=3410.00 prev=335.00

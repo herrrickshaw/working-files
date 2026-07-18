@@ -1,0 +1,3 @@
+[sequencer3] NSE EPS backfill (PID 62223) finished.
+[sequencer3] starting BSE full run (--bse-only-vs-nse)...
+[sequencer3] BSE collection complete.

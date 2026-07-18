@@ -1,0 +1,3 @@
+[sequencer2] both NSE jobs (58891 board-meetings/financial-results, then EPS backfill) finished.
+[sequencer2] starting BSE full run (--bse-only-vs-nse, now that NSE ISIN data is complete)...
+[sequencer2] BSE collection complete.

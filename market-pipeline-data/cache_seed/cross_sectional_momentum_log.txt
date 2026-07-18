@@ -1,0 +1,90 @@
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: LTIM.NS"}}}
+
+[IN] sampling 300 most-liquid symbols...
+  [IN] fetching sectors for 270 symbols (cached: 30)...
+    50/270 IN sectors processed, 50 results
+    100/270 IN sectors processed, 100 results
+    150/270 IN sectors processed, 150 results
+    200/270 IN sectors processed, 200 results
+    250/270 IN sectors processed, 250 results
+    270/270 IN sectors processed, 270 results
+[IN] 300 symbols, 11 sectors, 12 unclassified
+[IN] price panel: 2596 dates x 300 symbols
+[IN] 3d (H=3d): {'n_periods': 864, 'mean_winner_fwd_ret_pct': 0.1747, 'mean_loser_fwd_ret_pct': 0.322, 'mean_spread_pct': -0.1473, 'spread_tstat': -3.36, 'hit_rate': 0.4572}
+[IN] 1w (H=5d): {'n_periods': 518, 'mean_winner_fwd_ret_pct': 0.2144, 'mean_loser_fwd_ret_pct': 0.6055, 'mean_spread_pct': -0.3911, 'spread_tstat': -5.437, 'hit_rate': 0.4131}
+[IN] 2w (H=10d): {'n_periods': 258, 'mean_winner_fwd_ret_pct': 0.6239, 'mean_loser_fwd_ret_pct': 1.11, 'mean_spread_pct': -0.4861, 'spread_tstat': -3.246, 'hit_rate': 0.4186}
+[IN] 1mo (H=21d): {'n_periods': 122, 'mean_winner_fwd_ret_pct': 1.8258, 'mean_loser_fwd_ret_pct': 2.0051, 'mean_spread_pct': -0.1792, 'spread_tstat': -0.647, 'hit_rate': 0.5246}
+
+[US] sampling 300 most-liquid symbols...
+  [US] fetching sectors for 300 symbols (cached: 0)...
+    50/300 US sectors processed, 50 results
+    100/300 US sectors processed, 100 results
+    150/300 US sectors processed, 150 results
+    200/300 US sectors processed, 200 results
+    250/300 US sectors processed, 250 results
+    300/300 US sectors processed, 300 results
+[US] 300 symbols, 11 sectors, 9 unclassified
+[US] price panel: 2645 dates x 168 symbols
+[US] 3d (H=3d): {'n_periods': 880, 'mean_winner_fwd_ret_pct': 0.2278, 'mean_loser_fwd_ret_pct': 0.2836, 'mean_spread_pct': -0.0558, 'spread_tstat': -1.135, 'hit_rate': 0.483}
+[US] 1w (H=5d): {'n_periods': 527, 'mean_winner_fwd_ret_pct': 0.3843, 'mean_loser_fwd_ret_pct': 0.4732, 'mean_spread_pct': -0.0889, 'spread_tstat': -1.071, 'hit_rate': 0.5009}
+[US] 2w (H=10d): {'n_periods': 263, 'mean_winner_fwd_ret_pct': 0.91, 'mean_loser_fwd_ret_pct': 0.9509, 'mean_spread_pct': -0.0409, 'spread_tstat': -0.224, 'hit_rate': 0.5133}
+[US] 1mo (H=21d): {'n_periods': 124, 'mean_winner_fwd_ret_pct': 1.6305, 'mean_loser_fwd_ret_pct': 1.8719, 'mean_spread_pct': -0.2413, 'spread_tstat': -0.629, 'hit_rate': 0.4758}
+
+[JP] sampling 300 most-liquid symbols...
+  [JP] fetching sectors for 300 symbols (cached: 0)...
+    50/300 JP sectors processed, 50 results
+    100/300 JP sectors processed, 100 results
+    150/300 JP sectors processed, 150 results
+    200/300 JP sectors processed, 200 results
+    250/300 JP sectors processed, 250 results
+    300/300 JP sectors processed, 289 results
+[JP] 300 symbols, 11 sectors, 11 unclassified
+[JP] price panel: 2592 dates x 299 symbols
+[JP] 3d (H=3d): {'n_periods': 862, 'mean_winner_fwd_ret_pct': 0.1627, 'mean_loser_fwd_ret_pct': 0.2366, 'mean_spread_pct': -0.0739, 'spread_tstat': -1.696, 'hit_rate': 0.4501}
+[JP] 1w (H=5d): {'n_periods': 517, 'mean_winner_fwd_ret_pct': 0.2851, 'mean_loser_fwd_ret_pct': 0.3572, 'mean_spread_pct': -0.0721, 'spread_tstat': -1.093, 'hit_rate': 0.4855}
+[JP] 2w (H=10d): {'n_periods': 258, 'mean_winner_fwd_ret_pct': 0.6093, 'mean_loser_fwd_ret_pct': 0.6971, 'mean_spread_pct': -0.0878, 'spread_tstat': -0.767, 'hit_rate': 0.4922}
+[JP] 1mo (H=21d): {'n_periods': 122, 'mean_winner_fwd_ret_pct': 1.3028, 'mean_loser_fwd_ret_pct': 1.4426, 'mean_spread_pct': -0.1398, 'spread_tstat': -0.49, 'hit_rate': 0.541}
+
+[KR] sampling 300 most-liquid symbols...
+  [KR] fetching sectors for 300 symbols (cached: 0)...
+    50/300 KR sectors processed, 0 results
+    100/300 KR sectors processed, 0 results
+    150/300 KR sectors processed, 0 results
+    200/300 KR sectors processed, 0 results
+    250/300 KR sectors processed, 0 results
+    300/300 KR sectors processed, 0 results
+[KR] 300 symbols, 0 sectors, 300 unclassified
+[KR] price panel: 2578 dates x 300 symbols
+[KR] 3d (H=3d): {'n_periods': 0, 'insufficient': True}
+[KR] 1w (H=5d): {'n_periods': 0, 'insufficient': True}
+[KR] 2w (H=10d): {'n_periods': 0, 'insufficient': True}
+[KR] 1mo (H=21d): {'n_periods': 0, 'insufficient': True}
+
+
+==============================================================================
+CROSS-SECTIONAL (SECTOR-PEER) MOMENTUM SUMMARY
+==============================================================================
+
+IN  (300 symbols, 11 sectors)
+  3d: spread=-0.147%  t=-3.36  hit_rate=45.7%  n_periods=864
+  1w: spread=-0.391%  t=-5.437  hit_rate=41.3%  n_periods=518
+  2w: spread=-0.486%  t=-3.246  hit_rate=41.9%  n_periods=258
+  1mo: spread=-0.179%  t=-0.647  hit_rate=52.5%  n_periods=122
+
+US  (300 symbols, 11 sectors)
+  3d: spread=-0.056%  t=-1.135  hit_rate=48.3%  n_periods=880
+  1w: spread=-0.089%  t=-1.071  hit_rate=50.1%  n_periods=527
+  2w: spread=-0.041%  t=-0.224  hit_rate=51.3%  n_periods=263
+  1mo: spread=-0.241%  t=-0.629  hit_rate=47.6%  n_periods=124
+
+JP  (300 symbols, 11 sectors)
+  3d: spread=-0.074%  t=-1.696  hit_rate=45.0%  n_periods=862
+  1w: spread=-0.072%  t=-1.093  hit_rate=48.5%  n_periods=517
+  2w: spread=-0.088%  t=-0.767  hit_rate=49.2%  n_periods=258
+  1mo: spread=-0.140%  t=-0.49  hit_rate=54.1%  n_periods=122
+
+KR  (300 symbols, 0 sectors)
+  3d: insufficient periods (0)
+  1w: insufficient periods (0)
+  2w: insufficient periods (0)
+  1mo: insufficient periods (0)

@@ -1,0 +1,188 @@
+[
+  {
+    "market": "IN",
+    "n_symbols": 1850,
+    "n_events": 11194,
+    "date_is_proxy": false,
+    "pead_summary": {
+      "1mo_positive_surprise": {
+        "n_events": 4965,
+        "mean_car_pct": -0.5272,
+        "tstat": -3.056,
+        "hit_rate": 0.4743
+      },
+      "1mo_negative_surprise": {
+        "n_events": 4916,
+        "mean_car_pct": -2.2027,
+        "tstat": -11.589,
+        "hit_rate": 0.5816
+      },
+      "2mo_positive_surprise": {
+        "n_events": 4763,
+        "mean_car_pct": -0.3113,
+        "tstat": -1.208,
+        "hit_rate": 0.5079
+      },
+      "2mo_negative_surprise": {
+        "n_events": 4774,
+        "mean_car_pct": -2.3571,
+        "tstat": -9.155,
+        "hit_rate": 0.5553
+      },
+      "3mo_positive_surprise": {
+        "n_events": 4567,
+        "mean_car_pct": -0.1047,
+        "tstat": -0.31,
+        "hit_rate": 0.5115
+      },
+      "3mo_negative_surprise": {
+        "n_events": 4653,
+        "mean_car_pct": -3.0714,
+        "tstat": -9.523,
+        "hit_rate": 0.553
+      },
+      "1mo_pos_minus_neg_spread_pct": 1.6755,
+      "2mo_pos_minus_neg_spread_pct": 2.0458,
+      "3mo_pos_minus_neg_spread_pct": 2.9667
+    },
+    "n_leader_candidates_tested": 860,
+    "n_leaders_fdr_significant_q10": 0,
+    "top_sector_leaders": [
+      {
+        "ticker": "GUJALKALI",
+        "sector": "Basic Materials",
+        "n_events": 13,
+        "same_direction_hit_rate": 0.846,
+        "mean_abs_peer_reaction_pct": 0.9904,
+        "binomial_pvalue": 0.01123,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "AMBUJACEM",
+        "sector": "Basic Materials",
+        "n_events": 24,
+        "same_direction_hit_rate": 0.75,
+        "mean_abs_peer_reaction_pct": 0.7225,
+        "binomial_pvalue": 0.01133,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "BANDHANBNK",
+        "sector": "Financial Services",
+        "n_events": 23,
+        "same_direction_hit_rate": 0.739,
+        "mean_abs_peer_reaction_pct": 0.9364,
+        "binomial_pvalue": 0.01734,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "SWARAJENG",
+        "sector": "Consumer Cyclical",
+        "n_events": 17,
+        "same_direction_hit_rate": 0.765,
+        "mean_abs_peer_reaction_pct": 0.7352,
+        "binomial_pvalue": 0.02452,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "BIKAJI",
+        "sector": "Consumer Defensive",
+        "n_events": 5,
+        "same_direction_hit_rate": 1.0,
+        "mean_abs_peer_reaction_pct": 0.5061,
+        "binomial_pvalue": 0.03125,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "EMIL",
+        "sector": "Consumer Cyclical",
+        "n_events": 5,
+        "same_direction_hit_rate": 1.0,
+        "mean_abs_peer_reaction_pct": 0.9659,
+        "binomial_pvalue": 0.03125,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "FINEORG",
+        "sector": "Basic Materials",
+        "n_events": 5,
+        "same_direction_hit_rate": 1.0,
+        "mean_abs_peer_reaction_pct": 0.672,
+        "binomial_pvalue": 0.03125,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "RITES",
+        "sector": "Industrials",
+        "n_events": 5,
+        "same_direction_hit_rate": 1.0,
+        "mean_abs_peer_reaction_pct": 0.6209,
+        "binomial_pvalue": 0.03125,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "WAAREEENER",
+        "sector": "Technology",
+        "n_events": 5,
+        "same_direction_hit_rate": 1.0,
+        "mean_abs_peer_reaction_pct": 0.9916,
+        "binomial_pvalue": 0.03125,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "WABAG",
+        "sector": "Industrials",
+        "n_events": 19,
+        "same_direction_hit_rate": 0.737,
+        "mean_abs_peer_reaction_pct": 1.2068,
+        "binomial_pvalue": 0.03178,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "GALAXYSURF",
+        "sector": "Basic Materials",
+        "n_events": 24,
+        "same_direction_hit_rate": 0.708,
+        "mean_abs_peer_reaction_pct": 0.997,
+        "binomial_pvalue": 0.03196,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "SYNGENE",
+        "sector": "Healthcare",
+        "n_events": 24,
+        "same_direction_hit_rate": 0.708,
+        "mean_abs_peer_reaction_pct": 0.5918,
+        "binomial_pvalue": 0.03196,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "LINCOLN",
+        "sector": "Healthcare",
+        "n_events": 8,
+        "same_direction_hit_rate": 0.875,
+        "mean_abs_peer_reaction_pct": 0.8422,
+        "binomial_pvalue": 0.03516,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "SAIL",
+        "sector": "Basic Materials",
+        "n_events": 23,
+        "same_direction_hit_rate": 0.696,
+        "mean_abs_peer_reaction_pct": 0.6179,
+        "binomial_pvalue": 0.04657,
+        "fdr_significant": false
+      },
+      {
+        "ticker": "AHLUCONT",
+        "sector": "Industrials",
+        "n_events": 25,
+        "same_direction_hit_rate": 0.68,
+        "mean_abs_peer_reaction_pct": 0.7828,
+        "binomial_pvalue": 0.05388,
+        "fdr_significant": false
+      }
+    ]
+  }
+]

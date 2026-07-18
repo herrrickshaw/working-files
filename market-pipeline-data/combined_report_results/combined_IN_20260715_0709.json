@@ -1,0 +1,6435 @@
+{
+  "market": "IN",
+  "generated": "2026-07-15T07:09:17.876067",
+  "mood": {
+    "mood": "POSITIVE",
+    "score": 0.408,
+    "n_articles": 229,
+    "by_outlet": {
+      "Moneycontrol": 3,
+      "EconomicTimes": 2,
+      "BusinessLine": 1,
+      "LiveMint": 1
+    }
+  },
+  "picks": [
+    {
+      "Symbol": "DATAMATICS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas+GoldenCross",
+      "N_Screens": 2,
+      "Piotroski": null,
+      "LTP": 860.55
+    },
+    {
+      "Symbol": "GANESHHOU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas+GoldenCross",
+      "N_Screens": 2,
+      "Piotroski": null,
+      "LTP": 857.3
+    },
+    {
+      "Symbol": "CORDSCABLE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas+GoldenCross",
+      "N_Screens": 2,
+      "Piotroski": null,
+      "LTP": 239.9
+    },
+    {
+      "Symbol": "AUSTENG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas+GoldenCross",
+      "N_Screens": 2,
+      "Piotroski": null,
+      "LTP": 173.9
+    },
+    {
+      "Symbol": "MAHESHWARI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas+GoldenCross",
+      "N_Screens": 2,
+      "Piotroski": null,
+      "LTP": 68.94
+    },
+    {
+      "Symbol": "MODISONLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas+GoldenCross",
+      "N_Screens": 2,
+      "Piotroski": null,
+      "LTP": 284.6
+    },
+    {
+      "Symbol": "1075IFCI26",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 45000.0
+    },
+    {
+      "Symbol": "GROWWLIQID",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 109.89
+    },
+    {
+      "Symbol": "STOVACQ",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1729.95
+    },
+    {
+      "Symbol": "VARDHACRLC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 45.16
+    },
+    {
+      "Symbol": "VIKRAMTH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 245.05
+    },
+    {
+      "Symbol": "CYIENT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 852.75
+    },
+    {
+      "Symbol": "COCHINM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 250.05
+    },
+    {
+      "Symbol": "GSEC10ABSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 113.0
+    },
+    {
+      "Symbol": "GOKULAGRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 213.98
+    },
+    {
+      "Symbol": "SBILIQETF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1047.36
+    },
+    {
+      "Symbol": "SONAMLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 56.02
+    },
+    {
+      "Symbol": "CCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1229.5
+    },
+    {
+      "Symbol": "APTUS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 290.15
+    },
+    {
+      "Symbol": "DDEVPLSTIK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 292.2
+    },
+    {
+      "Symbol": "CASHIETF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1070.71
+    },
+    {
+      "Symbol": "UPHOT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1425.0
+    },
+    {
+      "Symbol": "LATENTVIEW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 300.25
+    },
+    {
+      "Symbol": "INDOSTAR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 263.25
+    },
+    {
+      "Symbol": "KOTARISUG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 25.51
+    },
+    {
+      "Symbol": "GHCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 436.4
+    },
+    {
+      "Symbol": "PIXTRANS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1837.2
+    },
+    {
+      "Symbol": "CONTAINE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 24.09
+    },
+    {
+      "Symbol": "LIQUID1",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1113.38
+    },
+    {
+      "Symbol": "MON100",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 333.24
+    },
+    {
+      "Symbol": "DECIPHER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7.0
+    },
+    {
+      "Symbol": "TRIVENI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 472.25
+    },
+    {
+      "Symbol": "BRIGHT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 376.55
+    },
+    {
+      "Symbol": "MOSMALL250",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 18.05
+    },
+    {
+      "Symbol": "EBBETF0431",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1432.4
+    },
+    {
+      "Symbol": "MOALPHA50",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 53.8
+    },
+    {
+      "Symbol": "GEOJITFSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 80.73
+    },
+    {
+      "Symbol": "SATCH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4.99
+    },
+    {
+      "Symbol": "MAXIMUS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13.43
+    },
+    {
+      "Symbol": "UYFINCORP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 16.43
+    },
+    {
+      "Symbol": "INDHOTEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 733.3
+    },
+    {
+      "Symbol": "SUNDRMFAST",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 959.75
+    },
+    {
+      "Symbol": "HARIOMPIPE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 400.45
+    },
+    {
+      "Symbol": "MOREPENLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 62.56
+    },
+    {
+      "Symbol": "ONEPOINT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 56.35
+    },
+    {
+      "Symbol": "SOMANYCERA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 535.2
+    },
+    {
+      "Symbol": "GICRE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 365.2
+    },
+    {
+      "Symbol": "OILCOUNTUB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 63.54
+    },
+    {
+      "Symbol": "11IML026",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9971.0
+    },
+    {
+      "Symbol": "CARTRADE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2895.0
+    },
+    {
+      "Symbol": "LUXIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1297.5
+    },
+    {
+      "Symbol": "CENTENKA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 529.75
+    },
+    {
+      "Symbol": "POCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1392.5
+    },
+    {
+      "Symbol": "RAMRAT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 419.2
+    },
+    {
+      "Symbol": "EELZC27",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 139999.0
+    },
+    {
+      "Symbol": "IRBINVIT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 61.69
+    },
+    {
+      "Symbol": "MAZDA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 238.63
+    },
+    {
+      "Symbol": "KFINTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 898.25
+    },
+    {
+      "Symbol": "AURIONPRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 871.05
+    },
+    {
+      "Symbol": "EUREKAFORB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 469.0
+    },
+    {
+      "Symbol": "BLSE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 271.29
+    },
+    {
+      "Symbol": "NGLFINE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3130.8
+    },
+    {
+      "Symbol": "OASISEC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 12.45
+    },
+    {
+      "Symbol": "76NHAI31",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1104.5
+    },
+    {
+      "Symbol": "VGIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 142.6
+    },
+    {
+      "Symbol": "SCODATUBES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 153.43
+    },
+    {
+      "Symbol": "STARHEALTH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 597.35
+    },
+    {
+      "Symbol": "AXISILVER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 224.91
+    },
+    {
+      "Symbol": "DAMODARIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 32.13
+    },
+    {
+      "Symbol": "MUL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.19
+    },
+    {
+      "Symbol": "MULLER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 224.0
+    },
+    {
+      "Symbol": "RAJESH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 833.65
+    },
+    {
+      "Symbol": "NITIRAJ",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 192.73
+    },
+    {
+      "Symbol": "KARURVYSYA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 299.55
+    },
+    {
+      "Symbol": "WIPRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 177.14
+    },
+    {
+      "Symbol": "ZENOTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 47.05
+    },
+    {
+      "Symbol": "5PAISA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 384.95
+    },
+    {
+      "Symbol": "HNDFDS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 557.8
+    },
+    {
+      "Symbol": "EIDPARRY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 779.0
+    },
+    {
+      "Symbol": "CHALET",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 854.2
+    },
+    {
+      "Symbol": "10EFSL33B",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1000.0
+    },
+    {
+      "Symbol": "RACLGEAR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1328.7
+    },
+    {
+      "Symbol": "PRABHHANS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 34.45
+    },
+    {
+      "Symbol": "ASIANENE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 353.55
+    },
+    {
+      "Symbol": "HCKKVENTURE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 27.75
+    },
+    {
+      "Symbol": "PRIYALT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 23.65
+    },
+    {
+      "Symbol": "AARVI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 150.74
+    },
+    {
+      "Symbol": "ROLEXRINGS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 146.63
+    },
+    {
+      "Symbol": "KAYNES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3288.4
+    },
+    {
+      "Symbol": "JAYBHCR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 14.87
+    },
+    {
+      "Symbol": "LAURUSLABS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1560.7
+    },
+    {
+      "Symbol": "NECCLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 17.11
+    },
+    {
+      "Symbol": "SAFARI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1665.8
+    },
+    {
+      "Symbol": "PERFEPA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 70.9
+    },
+    {
+      "Symbol": "ANKITMETAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.54
+    },
+    {
+      "Symbol": "1STCUS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 69.72
+    },
+    {
+      "Symbol": "TYCHE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 129.75
+    },
+    {
+      "Symbol": "XCHANGING",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 65.0
+    },
+    {
+      "Symbol": "SAILIFE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1268.8
+    },
+    {
+      "Symbol": "ICICIPRULI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 503.95
+    },
+    {
+      "Symbol": "10EFSL33",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1000.95
+    },
+    {
+      "Symbol": "COLINZ",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 74.19
+    },
+    {
+      "Symbol": "POLYSPIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 30.19
+    },
+    {
+      "Symbol": "TGIF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 106.5
+    },
+    {
+      "Symbol": "SINCLAIR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 76.54
+    },
+    {
+      "Symbol": "ZEEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 103.12
+    },
+    {
+      "Symbol": "POLYPLEX",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1062.7
+    },
+    {
+      "Symbol": "LMW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 16122.0
+    },
+    {
+      "Symbol": "EIHOTEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 336.8
+    },
+    {
+      "Symbol": "KAJARIACER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1234.5
+    },
+    {
+      "Symbol": "TINNARUBR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 981.2
+    },
+    {
+      "Symbol": "ASKAUTOLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 465.8
+    },
+    {
+      "Symbol": "ZAGGLE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 212.74
+    },
+    {
+      "Symbol": "ASPINWALL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 257.14
+    },
+    {
+      "Symbol": "DEVINE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 8.3
+    },
+    {
+      "Symbol": "MAHEPC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 123.0
+    },
+    {
+      "Symbol": "KSOLVES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 295.85
+    },
+    {
+      "Symbol": "BORORENEW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 634.6
+    },
+    {
+      "Symbol": "KTKBANK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 274.15
+    },
+    {
+      "Symbol": "GILLETTE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7831.5
+    },
+    {
+      "Symbol": "SHERVANI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 288.65
+    },
+    {
+      "Symbol": "10AGG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 109.0
+    },
+    {
+      "Symbol": "GKWLIMITED",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1761.4
+    },
+    {
+      "Symbol": "REFEXRENEW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 314.85
+    },
+    {
+      "Symbol": "EPIGRAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1048.0
+    },
+    {
+      "Symbol": "KIMIABL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 33.25
+    },
+    {
+      "Symbol": "CONCORDBIO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1327.6
+    },
+    {
+      "Symbol": "GMMPFAUDLR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 787.9
+    },
+    {
+      "Symbol": "UFLEX",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 444.95
+    },
+    {
+      "Symbol": "COMCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 15.4
+    },
+    {
+      "Symbol": "HAWAENG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 84.88
+    },
+    {
+      "Symbol": "HARYNACAP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 148.95
+    },
+    {
+      "Symbol": "GIPCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 166.31
+    },
+    {
+      "Symbol": "LOGICA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 169.75
+    },
+    {
+      "Symbol": "HATHWAY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 11.28
+    },
+    {
+      "Symbol": "FEDFINA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 154.85
+    },
+    {
+      "Symbol": "SIS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 434.6
+    },
+    {
+      "Symbol": "PGEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 601.1
+    },
+    {
+      "Symbol": "LIQUIDADD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1135.52
+    },
+    {
+      "Symbol": "LLOYDSME",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1825.5
+    },
+    {
+      "Symbol": "BTML",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 6.24
+    },
+    {
+      "Symbol": "ROSSTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1036.6
+    },
+    {
+      "Symbol": "SYSCHEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 42.46
+    },
+    {
+      "Symbol": "INDOAMIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 137.95
+    },
+    {
+      "Symbol": "INDIQUBE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 174.99
+    },
+    {
+      "Symbol": "ZODIACVEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.73
+    },
+    {
+      "Symbol": "TATATECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 756.55
+    },
+    {
+      "Symbol": "ADANIPOWER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 226.17
+    },
+    {
+      "Symbol": "GEE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 113.35
+    },
+    {
+      "Symbol": "ICEMAKE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 786.25
+    },
+    {
+      "Symbol": "ENERGYINF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 79.97
+    },
+    {
+      "Symbol": "GTPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 62.6
+    },
+    {
+      "Symbol": "NRAIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 437.65
+    },
+    {
+      "Symbol": "JASCH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 282.7
+    },
+    {
+      "Symbol": "VIKRAMAR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 74.88
+    },
+    {
+      "Symbol": "TTKPRESTIG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 664.7
+    },
+    {
+      "Symbol": "UNIPARTS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 678.75
+    },
+    {
+      "Symbol": "SPECIALITY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 131.11
+    },
+    {
+      "Symbol": "RAYMOND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 619.1
+    },
+    {
+      "Symbol": "CHOWGULSTM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 24.22
+    },
+    {
+      "Symbol": "KHAZANCHI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 630.3
+    },
+    {
+      "Symbol": "VISTARAMAR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 207.75
+    },
+    {
+      "Symbol": "FMGOETZE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 468.65
+    },
+    {
+      "Symbol": "INDIAGLYCO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1102.65
+    },
+    {
+      "Symbol": "GYANDEV",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 50.42
+    },
+    {
+      "Symbol": "FABCLEAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 410.0
+    },
+    {
+      "Symbol": "MRPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 156.96
+    },
+    {
+      "Symbol": "AGARWALEYE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 490.7
+    },
+    {
+      "Symbol": "COMPEAU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 380.0
+    },
+    {
+      "Symbol": "ASTERDM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 813.2
+    },
+    {
+      "Symbol": "ITETF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 30.32
+    },
+    {
+      "Symbol": "ENTERO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1241.6
+    },
+    {
+      "Symbol": "IMFA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1419.2
+    },
+    {
+      "Symbol": "PNBHOUSING",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1095.5
+    },
+    {
+      "Symbol": "JSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 721.8
+    },
+    {
+      "Symbol": "BLUESTONE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 607.3
+    },
+    {
+      "Symbol": "BALAJITELE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 91.64
+    },
+    {
+      "Symbol": "STARIMAGIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 97.0
+    },
+    {
+      "Symbol": "GLCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 20.43
+    },
+    {
+      "Symbol": "YAANENT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 101.5
+    },
+    {
+      "Symbol": "SHILPAMED",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 624.25
+    },
+    {
+      "Symbol": "AVANTEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 180.24
+    },
+    {
+      "Symbol": "RRKABEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2345.3
+    },
+    {
+      "Symbol": "GLOBUSCON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13.16
+    },
+    {
+      "Symbol": "IPCALAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1840.4
+    },
+    {
+      "Symbol": "RAMSONS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 93.0
+    },
+    {
+      "Symbol": "LALPATHLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1744.6
+    },
+    {
+      "Symbol": "BRGIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 132.0
+    },
+    {
+      "Symbol": "AKZOINDIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2986.8
+    },
+    {
+      "Symbol": "ANNAINFRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 32.0
+    },
+    {
+      "Symbol": "CANDOUR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 81.05
+    },
+    {
+      "Symbol": "SYMPHONY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 710.8
+    },
+    {
+      "Symbol": "VISAKAIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 84.01
+    },
+    {
+      "Symbol": "ATVOENT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 32.0
+    },
+    {
+      "Symbol": "APOLLOFI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 355.85
+    },
+    {
+      "Symbol": "ORICONENT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 57.8
+    },
+    {
+      "Symbol": "MKTCREAT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 15.85
+    },
+    {
+      "Symbol": "KOLTEPATIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 383.4
+    },
+    {
+      "Symbol": "ANJANIFIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 8.74
+    },
+    {
+      "Symbol": "YASHINNO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 30.49
+    },
+    {
+      "Symbol": "OIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 441.1
+    },
+    {
+      "Symbol": "ALPA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 71.66
+    },
+    {
+      "Symbol": "AXISNIFTY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 266.64
+    },
+    {
+      "Symbol": "VADILENT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9990.6
+    },
+    {
+      "Symbol": "MOTOGENFIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 25.77
+    },
+    {
+      "Symbol": "JYOTHYLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 199.94
+    },
+    {
+      "Symbol": "ROSEMER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 68.0
+    },
+    {
+      "Symbol": "ADARSHPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 31.85
+    },
+    {
+      "Symbol": "DEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 30.3
+    },
+    {
+      "Symbol": "AARTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 49.66
+    },
+    {
+      "Symbol": "ORTEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.71
+    },
+    {
+      "Symbol": "TECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 31.44
+    },
+    {
+      "Symbol": "PSITINFRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.12
+    },
+    {
+      "Symbol": "ITIETF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 31.77
+    },
+    {
+      "Symbol": "INDUSTOWER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 405.25
+    },
+    {
+      "Symbol": "BALAMINES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2311.5
+    },
+    {
+      "Symbol": "AMBER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7786.5
+    },
+    {
+      "Symbol": "VERITAS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 181.4
+    },
+    {
+      "Symbol": "SIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 16.4
+    },
+    {
+      "Symbol": "ROUTE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 569.4
+    },
+    {
+      "Symbol": "KIRIINDUS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 399.1
+    },
+    {
+      "Symbol": "ROYAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 110.0
+    },
+    {
+      "Symbol": "CONCOR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 493.15
+    },
+    {
+      "Symbol": "APCOTEXIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 527.9
+    },
+    {
+      "Symbol": "GOWRALE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 103.8
+    },
+    {
+      "Symbol": "MASPTOP50",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 79.53
+    },
+    {
+      "Symbol": "RBLBANK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 377.95
+    },
+    {
+      "Symbol": "BRIGADE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 556.25
+    },
+    {
+      "Symbol": "GLHRL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 10.86
+    },
+    {
+      "Symbol": "DAMCAPITAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 157.05
+    },
+    {
+      "Symbol": "CONART",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 96.87
+    },
+    {
+      "Symbol": "YASHO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3091.0
+    },
+    {
+      "Symbol": "DBCORP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 206.07
+    },
+    {
+      "Symbol": "MOHITPPR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 28.0
+    },
+    {
+      "Symbol": "INTRGLB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 69.39
+    },
+    {
+      "Symbol": "RAINBOW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1484.1
+    },
+    {
+      "Symbol": "MILEFUR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 28.38
+    },
+    {
+      "Symbol": "TNIDETF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 84.49
+    },
+    {
+      "Symbol": "NORTHARC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 318.9
+    },
+    {
+      "Symbol": "TECHM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1484.3
+    },
+    {
+      "Symbol": "COFORGE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1534.5
+    },
+    {
+      "Symbol": "IIFL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 541.5
+    },
+    {
+      "Symbol": "SASTASUNDR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 282.6
+    },
+    {
+      "Symbol": "INDOKEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 520.05
+    },
+    {
+      "Symbol": "QUANTDIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 23.5
+    },
+    {
+      "Symbol": "EXIDEIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 419.45
+    },
+    {
+      "Symbol": "ATHERENERG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1201.8
+    },
+    {
+      "Symbol": "MALLCOM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1066.9
+    },
+    {
+      "Symbol": "SWASTIKA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 67.24
+    },
+    {
+      "Symbol": "PATRON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2.31
+    },
+    {
+      "Symbol": "ECOSMOBLTY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 137.89
+    },
+    {
+      "Symbol": "HATSUN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 933.5
+    },
+    {
+      "Symbol": "PRIMIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 45.0
+    },
+    {
+      "Symbol": "PARNAXLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 153.4
+    },
+    {
+      "Symbol": "NAPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 218.95
+    },
+    {
+      "Symbol": "INDOCO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 248.53
+    },
+    {
+      "Symbol": "TASTYBITE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9072.5
+    },
+    {
+      "Symbol": "SGL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 10.51
+    },
+    {
+      "Symbol": "ITBEES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 31.85
+    },
+    {
+      "Symbol": "IDBI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 86.54
+    },
+    {
+      "Symbol": "EMBASSY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 443.11
+    },
+    {
+      "Symbol": "INDGELA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 377.75
+    },
+    {
+      "Symbol": "INDIASHLTR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 815.95
+    },
+    {
+      "Symbol": "BAJAJ-AUTO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 10166.0
+    },
+    {
+      "Symbol": "HEMANG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13.75
+    },
+    {
+      "Symbol": "SUNPHARMA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1942.6
+    },
+    {
+      "Symbol": "MUKANDLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 136.72
+    },
+    {
+      "Symbol": "WAGEND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.23
+    },
+    {
+      "Symbol": "BIOCON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 437.3
+    },
+    {
+      "Symbol": "BHARTIARTL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1936.5
+    },
+    {
+      "Symbol": "BHEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 403.9
+    },
+    {
+      "Symbol": "VARIMAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4.48
+    },
+    {
+      "Symbol": "OFSS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 11646.0
+    },
+    {
+      "Symbol": "TAJGVK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 358.7
+    },
+    {
+      "Symbol": "ARE&M",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 894.9
+    },
+    {
+      "Symbol": "HAPPYFORGE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1591.9
+    },
+    {
+      "Symbol": "SBILIFE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1840.3
+    },
+    {
+      "Symbol": "SUDARSHAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 41.96
+    },
+    {
+      "Symbol": "RAP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 37.35
+    },
+    {
+      "Symbol": "HEG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 566.45
+    },
+    {
+      "Symbol": "VPRPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 43.9
+    },
+    {
+      "Symbol": "GOODLUCK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1579.5
+    },
+    {
+      "Symbol": "EQUITASBNK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 79.94
+    },
+    {
+      "Symbol": "AFFLE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1517.0
+    },
+    {
+      "Symbol": "SIMBHALS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7.29
+    },
+    {
+      "Symbol": "ZENSARTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 527.9
+    },
+    {
+      "Symbol": "ADANIGREEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1604.5
+    },
+    {
+      "Symbol": "HSIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 378.0
+    },
+    {
+      "Symbol": "SHANTI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7.14
+    },
+    {
+      "Symbol": "SHOPERSTOP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 375.0
+    },
+    {
+      "Symbol": "FREDUN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2857.55
+    },
+    {
+      "Symbol": "EMUDHRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 458.7
+    },
+    {
+      "Symbol": "CSBBANK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 356.6
+    },
+    {
+      "Symbol": "PRAGBOS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.85
+    },
+    {
+      "Symbol": "PACIFICI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 138.75
+    },
+    {
+      "Symbol": "BLACKBUCK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 584.45
+    },
+    {
+      "Symbol": "NATGENI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 58.88
+    },
+    {
+      "Symbol": "CROPSTER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 5.73
+    },
+    {
+      "Symbol": "CEEJAY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 169.85
+    },
+    {
+      "Symbol": "GARFIBRES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 755.15
+    },
+    {
+      "Symbol": "BHAGERIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 226.35
+    },
+    {
+      "Symbol": "AMNPLST",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 205.27
+    },
+    {
+      "Symbol": "SHARIKA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 19.85
+    },
+    {
+      "Symbol": "STHINPA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 110.0
+    },
+    {
+      "Symbol": "OMAXE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 97.52
+    },
+    {
+      "Symbol": "SAYAJIIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 108.0
+    },
+    {
+      "Symbol": "COSMOFE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 223.85
+    },
+    {
+      "Symbol": "3MINDIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 36540.0
+    },
+    {
+      "Symbol": "BLUECLOUDS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 22.74
+    },
+    {
+      "Symbol": "KEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 26.77
+    },
+    {
+      "Symbol": "PFIZER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4664.6
+    },
+    {
+      "Symbol": "HCG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 686.35
+    },
+    {
+      "Symbol": "ARYAVAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 53.86
+    },
+    {
+      "Symbol": "DOLPHIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 396.55
+    },
+    {
+      "Symbol": "PGINVIT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 96.99
+    },
+    {
+      "Symbol": "ADITYASP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 15.97
+    },
+    {
+      "Symbol": "VAIBHAVGBL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 251.17
+    },
+    {
+      "Symbol": "CAPRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 49.99
+    },
+    {
+      "Symbol": "PUNJABCHEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1159.6
+    },
+    {
+      "Symbol": "LIQUIDCASE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 114.99
+    },
+    {
+      "Symbol": "ALFAVIO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.88
+    },
+    {
+      "Symbol": "GLENMARK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2305.1
+    },
+    {
+      "Symbol": "SOBHA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1490.6
+    },
+    {
+      "Symbol": "DEEPAKNTR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1669.3
+    },
+    {
+      "Symbol": "SUCROSA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 11.33
+    },
+    {
+      "Symbol": "PERSISTENT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 5129.1
+    },
+    {
+      "Symbol": "PDSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 382.25
+    },
+    {
+      "Symbol": "IGCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 74.73
+    },
+    {
+      "Symbol": "BEPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 106.8
+    },
+    {
+      "Symbol": "MAFANG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 197.11
+    },
+    {
+      "Symbol": "AGRIBIO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 320.1
+    },
+    {
+      "Symbol": "TORNTPOWER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1465.3
+    },
+    {
+      "Symbol": "RSYSTEMS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 252.96
+    },
+    {
+      "Symbol": "AMALGAM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 93.38
+    },
+    {
+      "Symbol": "DIVISLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7188.5
+    },
+    {
+      "Symbol": "PNCINFRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 244.53
+    },
+    {
+      "Symbol": "NGIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 39.27
+    },
+    {
+      "Symbol": "JKPAPER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 368.95
+    },
+    {
+      "Symbol": "ASAHIINDIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 923.1
+    },
+    {
+      "Symbol": "ALKYLAMINE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1868.1
+    },
+    {
+      "Symbol": "SBIETFIT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 317.93
+    },
+    {
+      "Symbol": "AETHER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1439.9
+    },
+    {
+      "Symbol": "ARL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 57.4
+    },
+    {
+      "Symbol": "CIGNITITEC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1260.3
+    },
+    {
+      "Symbol": "SWIGGY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 258.8
+    },
+    {
+      "Symbol": "JSFB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 489.95
+    },
+    {
+      "Symbol": "TITAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4573.7
+    },
+    {
+      "Symbol": "SUPREMEIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3427.5
+    },
+    {
+      "Symbol": "AXISHCETF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 164.72
+    },
+    {
+      "Symbol": "MISHDESIGN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 32.17
+    },
+    {
+      "Symbol": "SUVEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 348.2
+    },
+    {
+      "Symbol": "UNIVARTS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 5.7
+    },
+    {
+      "Symbol": "NDGL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2819.0
+    },
+    {
+      "Symbol": "SHRADHA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 35.54
+    },
+    {
+      "Symbol": "UJJIVANSFB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 65.14
+    },
+    {
+      "Symbol": "PREMIERENE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1100.9
+    },
+    {
+      "Symbol": "SANPA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 164.85
+    },
+    {
+      "Symbol": "VENKEYS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1502.4
+    },
+    {
+      "Symbol": "JGCHEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 445.85
+    },
+    {
+      "Symbol": "3IINFOLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 18.19
+    },
+    {
+      "Symbol": "TRISHAKT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 190.95
+    },
+    {
+      "Symbol": "SMFIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.86
+    },
+    {
+      "Symbol": "ORCHPHARMA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1052.95
+    },
+    {
+      "Symbol": "GOACARBON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 411.1
+    },
+    {
+      "Symbol": "INDIANB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 833.45
+    },
+    {
+      "Symbol": "SILVERTUC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 195.14
+    },
+    {
+      "Symbol": "MASTEK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1719.5
+    },
+    {
+      "Symbol": "GROWWNET",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.93
+    },
+    {
+      "Symbol": "DGL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.06
+    },
+    {
+      "Symbol": "SPORTKING",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 196.85
+    },
+    {
+      "Symbol": "ETHOSLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2645.7
+    },
+    {
+      "Symbol": "JASH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 532.4
+    },
+    {
+      "Symbol": "JAINCO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4.69
+    },
+    {
+      "Symbol": "BOROLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 249.67
+    },
+    {
+      "Symbol": "RBZJEWEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 153.8
+    },
+    {
+      "Symbol": "NATIONALUM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 364.9
+    },
+    {
+      "Symbol": "ASHAI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 11.47
+    },
+    {
+      "Symbol": "LYKALABS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 74.83
+    },
+    {
+      "Symbol": "BODALCHEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 75.8
+    },
+    {
+      "Symbol": "RODIUM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 179.7
+    },
+    {
+      "Symbol": "AMARJOTHI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 177.05
+    },
+    {
+      "Symbol": "KHADIM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 108.41
+    },
+    {
+      "Symbol": "MANGLMCEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 962.5
+    },
+    {
+      "Symbol": "TRIGYN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 56.95
+    },
+    {
+      "Symbol": "UNIONBANK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 170.67
+    },
+    {
+      "Symbol": "BEFOUNDMOL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3.45
+    },
+    {
+      "Symbol": "PURVA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 235.08
+    },
+    {
+      "Symbol": "PADMAIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.27
+    },
+    {
+      "Symbol": "INDBNK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 51.1
+    },
+    {
+      "Symbol": "VADILALIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 6806.5
+    },
+    {
+      "Symbol": "TRF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 252.43
+    },
+    {
+      "Symbol": "MAYUR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 22.49
+    },
+    {
+      "Symbol": "METAINFO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 86.0
+    },
+    {
+      "Symbol": "AURUM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 239.64
+    },
+    {
+      "Symbol": "SBICARD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 638.85
+    },
+    {
+      "Symbol": "IT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 31.81
+    },
+    {
+      "Symbol": "SHINEFASH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 20.38
+    },
+    {
+      "Symbol": "INFY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1092.9
+    },
+    {
+      "Symbol": "NIBL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 33.25
+    },
+    {
+      "Symbol": "IONEXCHANG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 440.55
+    },
+    {
+      "Symbol": "DIACABS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 224.97
+    },
+    {
+      "Symbol": "DEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 116.15
+    },
+    {
+      "Symbol": "HDFCNIFIT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 30.6
+    },
+    {
+      "Symbol": "HIKAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 237.22
+    },
+    {
+      "Symbol": "TCS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2200.6
+    },
+    {
+      "Symbol": "JINDALPOLY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 672.4
+    },
+    {
+      "Symbol": "DYCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 390.85
+    },
+    {
+      "Symbol": "SONATSOFTW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 307.75
+    },
+    {
+      "Symbol": "VOLTAS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1358.9
+    },
+    {
+      "Symbol": "CDSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1428.5
+    },
+    {
+      "Symbol": "RRETAIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2.67
+    },
+    {
+      "Symbol": "SIEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 32.62
+    },
+    {
+      "Symbol": "APOLLOPIPE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 508.85
+    },
+    {
+      "Symbol": "SIGNATURE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 822.55
+    },
+    {
+      "Symbol": "MPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 6.75
+    },
+    {
+      "Symbol": "DUCON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3.03
+    },
+    {
+      "Symbol": "NEOGEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2147.2
+    },
+    {
+      "Symbol": "TORNTPHARM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4973.5
+    },
+    {
+      "Symbol": "PRIMECAPM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.25
+    },
+    {
+      "Symbol": "BEEZAASAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 375.45
+    },
+    {
+      "Symbol": "DELTA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 12.03
+    },
+    {
+      "Symbol": "TTKHLTCARE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 989.0
+    },
+    {
+      "Symbol": "ONGC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 248.9
+    },
+    {
+      "Symbol": "LXCHEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 166.73
+    },
+    {
+      "Symbol": "ROYALCU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 19.44
+    },
+    {
+      "Symbol": "NDASEC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 32.96
+    },
+    {
+      "Symbol": "MORGANITE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1362.1
+    },
+    {
+      "Symbol": "NUVOCO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 341.4
+    },
+    {
+      "Symbol": "SRMCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 59.41
+    },
+    {
+      "Symbol": "KABRAEXTRU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 317.75
+    },
+    {
+      "Symbol": "HCLTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1166.7
+    },
+    {
+      "Symbol": "AARTIDRUGS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 405.7
+    },
+    {
+      "Symbol": "JAYAGROGN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 222.06
+    },
+    {
+      "Symbol": "FSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 264.15
+    },
+    {
+      "Symbol": "MINDSPACE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 491.6
+    },
+    {
+      "Symbol": "RAJRATAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 477.15
+    },
+    {
+      "Symbol": "BDH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 555.55
+    },
+    {
+      "Symbol": "ASHAPURMIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 691.65
+    },
+    {
+      "Symbol": "UNIVCABLES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1212.0
+    },
+    {
+      "Symbol": "BCLIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 37.79
+    },
+    {
+      "Symbol": "NATPLASTI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 227.8
+    },
+    {
+      "Symbol": "RACE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 112.44
+    },
+    {
+      "Symbol": "SONACOMS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 666.8
+    },
+    {
+      "Symbol": "SUMICHEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 535.2
+    },
+    {
+      "Symbol": "SAKAR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 904.45
+    },
+    {
+      "Symbol": "SGMART",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 654.15
+    },
+    {
+      "Symbol": "WESTLEIRES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 88.95
+    },
+    {
+      "Symbol": "DCI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 279.9
+    },
+    {
+      "Symbol": "SEALMATIC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 385.35
+    },
+    {
+      "Symbol": "PHOENIXTN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 90.83
+    },
+    {
+      "Symbol": "GRAVITA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1811.9
+    },
+    {
+      "Symbol": "PARKHOTELS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 132.17
+    },
+    {
+      "Symbol": "JSWINFRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 347.25
+    },
+    {
+      "Symbol": "ZR2",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 123.75
+    },
+    {
+      "Symbol": "BLKASHYAP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 59.02
+    },
+    {
+      "Symbol": "TRANSWORLD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 179.84
+    },
+    {
+      "Symbol": "RAIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 205.46
+    },
+    {
+      "Symbol": "INTERNET",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13.44
+    },
+    {
+      "Symbol": "MCEL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 151.3
+    },
+    {
+      "Symbol": "ELLEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 286.15
+    },
+    {
+      "Symbol": "SAMBHV",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 122.21
+    },
+    {
+      "Symbol": "RAMCOIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 365.45
+    },
+    {
+      "Symbol": "NOL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 60.55
+    },
+    {
+      "Symbol": "RML",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1238.9
+    },
+    {
+      "Symbol": "EXHICON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 540.5
+    },
+    {
+      "Symbol": "ARCEEIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 15.9
+    },
+    {
+      "Symbol": "PGHL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 6918.5
+    },
+    {
+      "Symbol": "DBEIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 82.66
+    },
+    {
+      "Symbol": "PICCADIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 716.55
+    },
+    {
+      "Symbol": "IFBIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1384.1
+    },
+    {
+      "Symbol": "MAHKTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 23.11
+    },
+    {
+      "Symbol": "11AGG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 26.64
+    },
+    {
+      "Symbol": "MUTHOOTMF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 239.01
+    },
+    {
+      "Symbol": "ALPINEHOU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 100.87
+    },
+    {
+      "Symbol": "SHYAMMETL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1035.95
+    },
+    {
+      "Symbol": "JOCIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 148.83
+    },
+    {
+      "Symbol": "ROOPAIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 52.74
+    },
+    {
+      "Symbol": "TCPLPACK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3216.9
+    },
+    {
+      "Symbol": "ASMTEC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4467.0
+    },
+    {
+      "Symbol": "VAMA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3.83
+    },
+    {
+      "Symbol": "BASML",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 27.28
+    },
+    {
+      "Symbol": "CHANDNIMACH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 99.69
+    },
+    {
+      "Symbol": "KAPSTON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 414.15
+    },
+    {
+      "Symbol": "ABBOTINDIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 27500.0
+    },
+    {
+      "Symbol": "ANANDRATHI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2080.8
+    },
+    {
+      "Symbol": "VSSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 295.6
+    },
+    {
+      "Symbol": "RAPICUT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 270.0
+    },
+    {
+      "Symbol": "VALINDIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 19.51
+    },
+    {
+      "Symbol": "MAWANASUG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 114.45
+    },
+    {
+      "Symbol": "TCIEXP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 554.7
+    },
+    {
+      "Symbol": "CSURGSU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 84.0
+    },
+    {
+      "Symbol": "BLISSGVS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 527.1
+    },
+    {
+      "Symbol": "ORIENTTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 280.8
+    },
+    {
+      "Symbol": "MAHALXSE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 8.84
+    },
+    {
+      "Symbol": "SSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 36.34
+    },
+    {
+      "Symbol": "MIDEASTP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 38.5
+    },
+    {
+      "Symbol": "AMERISE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 0.92
+    },
+    {
+      "Symbol": "ASMS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7.96
+    },
+    {
+      "Symbol": "SFL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 808.95
+    },
+    {
+      "Symbol": "LIBORDFIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 18.09
+    },
+    {
+      "Symbol": "SUPER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 910.7
+    },
+    {
+      "Symbol": "PCCOSMA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 326.65
+    },
+    {
+      "Symbol": "ABHIINFRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.49
+    },
+    {
+      "Symbol": "ANANTRAJ",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 573.65
+    },
+    {
+      "Symbol": "SHIVAGR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 26.29
+    },
+    {
+      "Symbol": "BFINVEST",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 488.45
+    },
+    {
+      "Symbol": "FACORALL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3.76
+    },
+    {
+      "Symbol": "ETERNAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 286.15
+    },
+    {
+      "Symbol": "HIGHENE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 616.9
+    },
+    {
+      "Symbol": "BLUESTARCO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1746.2
+    },
+    {
+      "Symbol": "PATINTLOG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 14.85
+    },
+    {
+      "Symbol": "LOTUSCHO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 734.35
+    },
+    {
+      "Symbol": "BIRLAMONEY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 157.06
+    },
+    {
+      "Symbol": "HESTERBIO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2386.8
+    },
+    {
+      "Symbol": "AAIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 95.25
+    },
+    {
+      "Symbol": "SKYIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 102.07
+    },
+    {
+      "Symbol": "HGS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 453.6
+    },
+    {
+      "Symbol": "EQUIPPP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 24.5
+    },
+    {
+      "Symbol": "JETFREIGHT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 23.7
+    },
+    {
+      "Symbol": "IKS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1879.4
+    },
+    {
+      "Symbol": "OIVL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 6.32
+    },
+    {
+      "Symbol": "ASIAPAK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 54.06
+    },
+    {
+      "Symbol": "NINSYS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 492.9
+    },
+    {
+      "Symbol": "NEULANDLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 18999.0
+    },
+    {
+      "Symbol": "PASUSPG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 31.15
+    },
+    {
+      "Symbol": "HAPPSTMNDS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 392.8
+    },
+    {
+      "Symbol": "PNGJL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 593.3
+    },
+    {
+      "Symbol": "UNIOFFICE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.39
+    },
+    {
+      "Symbol": "SENORES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1451.8
+    },
+    {
+      "Symbol": "ASTONEALAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 287.5
+    },
+    {
+      "Symbol": "J&KBANK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 177.4
+    },
+    {
+      "Symbol": "BRAHMINFRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 187.75
+    },
+    {
+      "Symbol": "VTMLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 69.91
+    },
+    {
+      "Symbol": "KUBERJI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 19.24
+    },
+    {
+      "Symbol": "TRIOMERC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2.27
+    },
+    {
+      "Symbol": "TIPSMUSIC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 703.8
+    },
+    {
+      "Symbol": "IFINSEC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 231.35
+    },
+    {
+      "Symbol": "BHARTIHEXA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1621.8
+    },
+    {
+      "Symbol": "DIXON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13365.0
+    },
+    {
+      "Symbol": "VIDHIING",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 313.0
+    },
+    {
+      "Symbol": "TATVA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1412.1
+    },
+    {
+      "Symbol": "HARRMALAYA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 226.48
+    },
+    {
+      "Symbol": "INDSWFTLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 229.86
+    },
+    {
+      "Symbol": "YASHHV",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 980.8
+    },
+    {
+      "Symbol": "DFL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 42.46
+    },
+    {
+      "Symbol": "INFONATIVE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 30.21
+    },
+    {
+      "Symbol": "STAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 34.75
+    },
+    {
+      "Symbol": "CYIENTDLM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 532.65
+    },
+    {
+      "Symbol": "ENCODE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 11.87
+    },
+    {
+      "Symbol": "MMFL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 516.3
+    },
+    {
+      "Symbol": "GHVINFRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 220.8
+    },
+    {
+      "Symbol": "MITCON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 87.95
+    },
+    {
+      "Symbol": "AGARWAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 21.0
+    },
+    {
+      "Symbol": "ARKADE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 138.96
+    },
+    {
+      "Symbol": "SMCGLOBAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 79.45
+    },
+    {
+      "Symbol": "INDRENEW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 12.15
+    },
+    {
+      "Symbol": "OAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 352.65
+    },
+    {
+      "Symbol": "HEMORGANIC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 24.42
+    },
+    {
+      "Symbol": "PANELEC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 28.27
+    },
+    {
+      "Symbol": "AVI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 17.59
+    },
+    {
+      "Symbol": "INLANPR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 55.3
+    },
+    {
+      "Symbol": "JAYKAILASH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 24.93
+    },
+    {
+      "Symbol": "JOINDRE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 54.76
+    },
+    {
+      "Symbol": "JLHL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1483.5
+    },
+    {
+      "Symbol": "RRMETAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 58.21
+    },
+    {
+      "Symbol": "KSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 926.15
+    },
+    {
+      "Symbol": "PLASTIBLEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 199.82
+    },
+    {
+      "Symbol": "ASAHISONG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 284.55
+    },
+    {
+      "Symbol": "BERVINL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 52.77
+    },
+    {
+      "Symbol": "ARMANFIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1958.6
+    },
+    {
+      "Symbol": "BALRAMCHIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 596.3
+    },
+    {
+      "Symbol": "OTCO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.26
+    },
+    {
+      "Symbol": "AUTOIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 86.99
+    },
+    {
+      "Symbol": "AKUMS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 686.95
+    },
+    {
+      "Symbol": "VBIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 8.76
+    },
+    {
+      "Symbol": "BUTTERFLY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 756.4
+    },
+    {
+      "Symbol": "MADHUVEER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 215.1
+    },
+    {
+      "Symbol": "RPGLIFE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2740.2
+    },
+    {
+      "Symbol": "UCIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 114.95
+    },
+    {
+      "Symbol": "MTPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 15.48
+    },
+    {
+      "Symbol": "AKSHOPTFBR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 5.4
+    },
+    {
+      "Symbol": "SHALPRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 0.31
+    },
+    {
+      "Symbol": "MVGJL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 165.52
+    },
+    {
+      "Symbol": "TAINWALCHM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 225.99
+    },
+    {
+      "Symbol": "SAMSRITA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 14.38
+    },
+    {
+      "Symbol": "QUESTFLOW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 229.8
+    },
+    {
+      "Symbol": "PHOTOQUP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13.99
+    },
+    {
+      "Symbol": "DECOMIC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 64.99
+    },
+    {
+      "Symbol": "NAM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 88.89
+    },
+    {
+      "Symbol": "JUMBO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 66.52
+    },
+    {
+      "Symbol": "SANGAMIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 624.95
+    },
+    {
+      "Symbol": "SCAGRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 27.79
+    },
+    {
+      "Symbol": "MAIDEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 88.76
+    },
+    {
+      "Symbol": "LUDLOWJUT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 377.75
+    },
+    {
+      "Symbol": "GRANULES",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 895.1
+    },
+    {
+      "Symbol": "JAYBARMARU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 199.18
+    },
+    {
+      "Symbol": "MOBIKWIK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 230.31
+    },
+    {
+      "Symbol": "JBCHEPHARM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2487.6
+    },
+    {
+      "Symbol": "SENCO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 377.85
+    },
+    {
+      "Symbol": "BANARBEADS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 115.95
+    },
+    {
+      "Symbol": "AJAXENGG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 607.95
+    },
+    {
+      "Symbol": "MOSCHIP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 240.83
+    },
+    {
+      "Symbol": "GVTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 5113.1
+    },
+    {
+      "Symbol": "JINDRILL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 626.2
+    },
+    {
+      "Symbol": "SPECTRA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4.1
+    },
+    {
+      "Symbol": "SHREEPAC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 151.35
+    },
+    {
+      "Symbol": "MAHAVEER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 16.2
+    },
+    {
+      "Symbol": "GREAVESCOT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 262.66
+    },
+    {
+      "Symbol": "SUGSLLOYD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 146.15
+    },
+    {
+      "Symbol": "INDIANHUME",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 414.4
+    },
+    {
+      "Symbol": "SUMIT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 58.57
+    },
+    {
+      "Symbol": "NBIFIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2184.2
+    },
+    {
+      "Symbol": "NEWGEN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 554.4
+    },
+    {
+      "Symbol": "LANDMARK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 496.4
+    },
+    {
+      "Symbol": "SUNDRMBRAK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 841.85
+    },
+    {
+      "Symbol": "KOPRAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 206.27
+    },
+    {
+      "Symbol": "HONASA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 474.4
+    },
+    {
+      "Symbol": "SHEMAROO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 131.85
+    },
+    {
+      "Symbol": "THAKRAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 15.93
+    },
+    {
+      "Symbol": "LIPPISYS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 244.1
+    },
+    {
+      "Symbol": "AZAD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2392.6
+    },
+    {
+      "Symbol": "FILATEX",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 61.69
+    },
+    {
+      "Symbol": "VRWODAR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 174.0
+    },
+    {
+      "Symbol": "CEENIK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 188.65
+    },
+    {
+      "Symbol": "BFLAFL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7.0
+    },
+    {
+      "Symbol": "VRAJ",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 133.26
+    },
+    {
+      "Symbol": "GOELCONS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 480.0
+    },
+    {
+      "Symbol": "BALPHARMA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 91.02
+    },
+    {
+      "Symbol": "ESHAMEDIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 34.83
+    },
+    {
+      "Symbol": "JUBLINGREA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 724.05
+    },
+    {
+      "Symbol": "BHANDARI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3.73
+    },
+    {
+      "Symbol": "CEATLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 3719.8
+    },
+    {
+      "Symbol": "MANAKCOAT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 129.14
+    },
+    {
+      "Symbol": "GGDPROP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 77.05
+    },
+    {
+      "Symbol": "SOFTTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 302.51
+    },
+    {
+      "Symbol": "SHREEJISPG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 575.3
+    },
+    {
+      "Symbol": "MUKATPIP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 18.14
+    },
+    {
+      "Symbol": "METSL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 156.9
+    },
+    {
+      "Symbol": "HIPOLIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 84.4
+    },
+    {
+      "Symbol": "QUESS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 292.55
+    },
+    {
+      "Symbol": "INDOBORAX",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 486.7
+    },
+    {
+      "Symbol": "NURECA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 275.07
+    },
+    {
+      "Symbol": "GNA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 555.7
+    },
+    {
+      "Symbol": "SHALIWIR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 20.76
+    },
+    {
+      "Symbol": "CGCL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 257.32
+    },
+    {
+      "Symbol": "PANKAJPO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 79.08
+    },
+    {
+      "Symbol": "STERTOOLS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 250.94
+    },
+    {
+      "Symbol": "SATTRIX",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 421.45
+    },
+    {
+      "Symbol": "LADDU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 0.44
+    },
+    {
+      "Symbol": "JMDVL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7.66
+    },
+    {
+      "Symbol": "NAUKRI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1187.95
+    },
+    {
+      "Symbol": "VALIANTLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 81.65
+    },
+    {
+      "Symbol": "ZIMLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 104.91
+    },
+    {
+      "Symbol": "RADHIKAJWE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 66.62
+    },
+    {
+      "Symbol": "KAMDHENU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 29.76
+    },
+    {
+      "Symbol": "RANDER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 10.86
+    },
+    {
+      "Symbol": "SUDARSCHEM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1066.2
+    },
+    {
+      "Symbol": "RUBYMILLS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 336.2
+    },
+    {
+      "Symbol": "PPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 316.25
+    },
+    {
+      "Symbol": "KACL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 6.43
+    },
+    {
+      "Symbol": "UNJHAFOR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 25.5
+    },
+    {
+      "Symbol": "EXPOEAPL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 74.69
+    },
+    {
+      "Symbol": "WOMENNET",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.41
+    },
+    {
+      "Symbol": "WELCORP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1683.4
+    },
+    {
+      "Symbol": "WEPSOLN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 30.26
+    },
+    {
+      "Symbol": "INDNIPPON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1209.6
+    },
+    {
+      "Symbol": "VIPCLOTHNG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 27.25
+    },
+    {
+      "Symbol": "SHHARICH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 131.55
+    },
+    {
+      "Symbol": "UNICHEMLAB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 581.35
+    },
+    {
+      "Symbol": "CONSOFINVT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 277.52
+    },
+    {
+      "Symbol": "ECORECO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 529.75
+    },
+    {
+      "Symbol": "GULFPETRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 40.26
+    },
+    {
+      "Symbol": "SUNITATOOL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 850.8
+    },
+    {
+      "Symbol": "RGF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2.45
+    },
+    {
+      "Symbol": "SKYGOLD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 618.0
+    },
+    {
+      "Symbol": "SMARTLINK",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 163.33
+    },
+    {
+      "Symbol": "RRECL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 183.85
+    },
+    {
+      "Symbol": "CHOICEIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 810.8
+    },
+    {
+      "Symbol": "PHOENIXLTD",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2132.5
+    },
+    {
+      "Symbol": "FAIRCHEMOR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 728.75
+    },
+    {
+      "Symbol": "MOREALTY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 91.73
+    },
+    {
+      "Symbol": "DPABHUSHAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1172.05
+    },
+    {
+      "Symbol": "NYKAA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 324.45
+    },
+    {
+      "Symbol": "MASTERTR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 93.07
+    },
+    {
+      "Symbol": "GANECOS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1122.95
+    },
+    {
+      "Symbol": "GANDHAR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 203.27
+    },
+    {
+      "Symbol": "AVG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 224.24
+    },
+    {
+      "Symbol": "ECLERX",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1718.3
+    },
+    {
+      "Symbol": "RAUNAQ",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 34.12
+    },
+    {
+      "Symbol": "INDUSFINL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 146.05
+    },
+    {
+      "Symbol": "QUADRANT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 0.5
+    },
+    {
+      "Symbol": "MARALOVER",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 56.61
+    },
+    {
+      "Symbol": "LODHA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1147.25
+    },
+    {
+      "Symbol": "EKAMLEA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7.8
+    },
+    {
+      "Symbol": "TIRUSTA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 159.0
+    },
+    {
+      "Symbol": "EVERESTO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 330.05
+    },
+    {
+      "Symbol": "PAYTM",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1381.4
+    },
+    {
+      "Symbol": "JAIPAN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 35.01
+    },
+    {
+      "Symbol": "GLITTEKG",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 49.93
+    },
+    {
+      "Symbol": "GODREJIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1336.7
+    },
+    {
+      "Symbol": "AFFORDABLE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 184.43
+    },
+    {
+      "Symbol": "OPTIEMUS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 566.3
+    },
+    {
+      "Symbol": "BESTEAST",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 14.09
+    },
+    {
+      "Symbol": "IMPEXFERRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2.42
+    },
+    {
+      "Symbol": "HITTCO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13.02
+    },
+    {
+      "Symbol": "KAIZENAGRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 12.73
+    },
+    {
+      "Symbol": "DRL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 28.1
+    },
+    {
+      "Symbol": "GODREJPROP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2107.4
+    },
+    {
+      "Symbol": "ASHNI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 4.08
+    },
+    {
+      "Symbol": "SIKOZY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.9
+    },
+    {
+      "Symbol": "COSMICCRF",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1400.0
+    },
+    {
+      "Symbol": "PAVNAIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 21.83
+    },
+    {
+      "Symbol": "BRIDGESE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 18.18
+    },
+    {
+      "Symbol": "SSFLPP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 161.5
+    },
+    {
+      "Symbol": "BLUEJET",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 605.5
+    },
+    {
+      "Symbol": "RLFL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 19.35
+    },
+    {
+      "Symbol": "PASUPTAC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 71.03
+    },
+    {
+      "Symbol": "SHANMUGA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 46.0
+    },
+    {
+      "Symbol": "AMRAPLIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 38.93
+    },
+    {
+      "Symbol": "GSBFIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 44.04
+    },
+    {
+      "Symbol": "FINOPB",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 176.4
+    },
+    {
+      "Symbol": "TBZ",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 259.97
+    },
+    {
+      "Symbol": "SYTIXSE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 15.0
+    },
+    {
+      "Symbol": "MUDUNURU",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 10.1
+    },
+    {
+      "Symbol": "TOKYOPLAST",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 101.3
+    },
+    {
+      "Symbol": "VLL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 68.33
+    },
+    {
+      "Symbol": "IKIO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 214.04
+    },
+    {
+      "Symbol": "KAUSHALYA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1146.15
+    },
+    {
+      "Symbol": "MAPMYINDIA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1178.9
+    },
+    {
+      "Symbol": "TEJASSVI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 55.0
+    },
+    {
+      "Symbol": "SHARP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 118.15
+    },
+    {
+      "Symbol": "GALLOPENT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 36.15
+    },
+    {
+      "Symbol": "KALYANKJIL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 529.75
+    },
+    {
+      "Symbol": "LIKHITHA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 243.1
+    },
+    {
+      "Symbol": "DBSTOCKBRO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 42.3
+    },
+    {
+      "Symbol": "UTCRFS2DGR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 58.77
+    },
+    {
+      "Symbol": "PEARLPOLY",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 21.64
+    },
+    {
+      "Symbol": "BCLENTERPR",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 0.8
+    },
+    {
+      "Symbol": "VAISHALI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 8.29
+    },
+    {
+      "Symbol": "STLTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 405.15
+    },
+    {
+      "Symbol": "JUSTDIAL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 790.15
+    },
+    {
+      "Symbol": "GSS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 15.74
+    },
+    {
+      "Symbol": "ONMOBILE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 75.58
+    },
+    {
+      "Symbol": "EPUJA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.77
+    },
+    {
+      "Symbol": "ALKALI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 97.2
+    },
+    {
+      "Symbol": "PRITIKAUTO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 19.99
+    },
+    {
+      "Symbol": "COUNCODOS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 7.14
+    },
+    {
+      "Symbol": "BALAXI",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 26.67
+    },
+    {
+      "Symbol": "SWITCHTE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 138.15
+    },
+    {
+      "Symbol": "CHEMKART",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 196.35
+    },
+    {
+      "Symbol": "GALADAFIN",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 36.34
+    },
+    {
+      "Symbol": "SVRL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 371.7
+    },
+    {
+      "Symbol": "GOLDTECH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 64.88
+    },
+    {
+      "Symbol": "RSCINT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 37.84
+    },
+    {
+      "Symbol": "EVERESTIND",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 529.0
+    },
+    {
+      "Symbol": "PLAZACABLE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 60.55
+    },
+    {
+      "Symbol": "INOVSYNTH",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 131.95
+    },
+    {
+      "Symbol": "KECL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 136.93
+    },
+    {
+      "Symbol": "SSWRL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 35.6
+    },
+    {
+      "Symbol": "ANJANIFOODS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 25.88
+    },
+    {
+      "Symbol": "BANKA",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 74.18
+    },
+    {
+      "Symbol": "CHMBBRW",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 35.5
+    },
+    {
+      "Symbol": "KRITINUT",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 98.02
+    },
+    {
+      "Symbol": "PANAFIC",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1.59
+    },
+    {
+      "Symbol": "CLIOINFO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13.52
+    },
+    {
+      "Symbol": "COVANCE",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 270.0
+    },
+    {
+      "Symbol": "PARMAX",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 95.16
+    },
+    {
+      "Symbol": "DUKEOFS",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 29.67
+    },
+    {
+      "Symbol": "HITECHCORP",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 266.39
+    },
+    {
+      "Symbol": "INCON",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 35.6
+    },
+    {
+      "Symbol": "KOBO",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 9.45
+    },
+    {
+      "Symbol": "JLL",
+      "Tier": "Single-Screen",
+      "Screens": "Darvas",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 162.55
+    },
+    {
+      "Symbol": "GKCONS",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 13.85
+    },
+    {
+      "Symbol": "LIQUIDSBI",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1000.0
+    },
+    {
+      "Symbol": "ANUP",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2175.8
+    },
+    {
+      "Symbol": "TOTEM",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 149.05
+    },
+    {
+      "Symbol": "360ONE",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 1098.8
+    },
+    {
+      "Symbol": "RESPONIND",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 183.39
+    },
+    {
+      "Symbol": "NDRAUTO",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 822.65
+    },
+    {
+      "Symbol": "GALXBRG",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 900.0
+    },
+    {
+      "Symbol": "TRABI",
+      "Tier": "Single-Screen",
+      "Screens": "GoldenCross",
+      "N_Screens": 1,
+      "Piotroski": null,
+      "LTP": 2.95
+    }
+  ],
+  "convergence": [
+    {
+      "Symbol": "CYIENT",
+      "Tier": "Single-Screen",
+      "Fundamental": "STRONG",
+      "News": "POSITIVE",
+      "News_Score": 0.7579,
+      "N_Articles": 1,
+      "Convergence": "\u2705 BOTH BULLISH",
+      "Top_Headline": "Cyient DLM#39;s profit after tax in FY24 surges 93%"
+    }
+  ],
+  "talk": {
+    "DATAMATICS": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "GANESHHOU": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "CORDSCABLE": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "AUSTENG": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "MAHESHWARI": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "MODISONLTD": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "1075IFCI26": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "GROWWLIQID": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "STOVACQ": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "VARDHACRLC": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "VIKRAMTH": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "CYIENT": {
+      "score": 0.7579,
+      "label": "POSITIVE",
+      "n_articles": 1,
+      "headlines": [
+        {
+          "title": "Cyient DLM#39;s profit after tax in FY24 surges 93%",
+          "sentiment": 0.76,
+          "source": "IndianRSS:Moneycontrol"
+        }
+      ]
+    },
+    "COCHINM": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "GSEC10ABSL": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "GOKULAGRO": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "SBILIQETF": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "SONAMLTD": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "CCL": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "APTUS": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "DDEVPLSTIK": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "CASHIETF": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "UPHOT": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "LATENTVIEW": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "INDOSTAR": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "KOTARISUG": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    }
+  }
+}

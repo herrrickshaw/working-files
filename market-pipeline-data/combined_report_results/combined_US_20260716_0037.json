@@ -1,0 +1,2162 @@
+{
+  "market": "US",
+  "generated": "2026-07-16T00:37:24.147746",
+  "mood": {
+    "mood": "POSITIVE",
+    "score": 0.177,
+    "n_articles": 140,
+    "by_outlet": {
+      "CNBC": 3,
+      "MarketWatch": 3
+    },
+    "market": "US"
+  },
+  "picks": [
+    {
+      "Symbol": "ATAT",
+      "Tier": "Multi-Screen",
+      "Screens": "BullCartel+CoffeeCan+MagicFormula+Piotroski",
+      "N_Screens": 4,
+      "Piotroski": 7.0,
+      "LTP": 32.32
+    },
+    {
+      "Symbol": "AVGO",
+      "Tier": "Multi-Screen",
+      "Screens": "BullCartel+CoffeeCan+Piotroski",
+      "N_Screens": 3,
+      "Piotroski": 8.0,
+      "LTP": 392.38
+    },
+    {
+      "Symbol": "CDNS",
+      "Tier": "Multi-Screen",
+      "Screens": "BullCartel+CoffeeCan+Piotroski",
+      "N_Screens": 3,
+      "Piotroski": 7.0,
+      "LTP": 371.7
+    },
+    {
+      "Symbol": "ADSK",
+      "Tier": "Multi-Screen",
+      "Screens": "BullCartel+CoffeeCan+Piotroski",
+      "N_Screens": 3,
+      "Piotroski": 7.0,
+      "LTP": 208.4
+    },
+    {
+      "Symbol": "PTC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 9.0,
+      "LTP": 123.53
+    },
+    {
+      "Symbol": "WWD",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 9.0,
+      "LTP": 401.27
+    },
+    {
+      "Symbol": "INTU",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 9.0,
+      "LTP": 280.0
+    },
+    {
+      "Symbol": "APP",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 9.0,
+      "LTP": 455.19
+    },
+    {
+      "Symbol": "TW",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 100.72
+    },
+    {
+      "Symbol": "ASML",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 1780.62
+    },
+    {
+      "Symbol": "LFST",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 10.9
+    },
+    {
+      "Symbol": "ADI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 387.92
+    },
+    {
+      "Symbol": "RYAAY",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 66.53
+    },
+    {
+      "Symbol": "PCTY",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 123.32
+    },
+    {
+      "Symbol": "EXE",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 87.56
+    },
+    {
+      "Symbol": "ESLT",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 733.3
+    },
+    {
+      "Symbol": "GLNG",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 8.0,
+      "LTP": 50.74
+    },
+    {
+      "Symbol": "SMTC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 132.54
+    },
+    {
+      "Symbol": "TXN",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 298.52
+    },
+    {
+      "Symbol": "NBIS",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 196.18
+    },
+    {
+      "Symbol": "MU",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 901.66
+    },
+    {
+      "Symbol": "GEN",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 26.33
+    },
+    {
+      "Symbol": "LRCX",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 329.39
+    },
+    {
+      "Symbol": "EXLS",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 27.56
+    },
+    {
+      "Symbol": "GLBE",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 39.08
+    },
+    {
+      "Symbol": "SEZL",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 183.62
+    },
+    {
+      "Symbol": "ADEA",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 27.48
+    },
+    {
+      "Symbol": "DKNG",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 25.25
+    },
+    {
+      "Symbol": "VSEC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 203.13
+    },
+    {
+      "Symbol": "KLIC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 105.89
+    },
+    {
+      "Symbol": "FSLR",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 223.17
+    },
+    {
+      "Symbol": "LITE",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 746.68
+    },
+    {
+      "Symbol": "NMRK",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 15.44
+    },
+    {
+      "Symbol": "VCYT",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 58.8
+    },
+    {
+      "Symbol": "TTMI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 142.54
+    },
+    {
+      "Symbol": "ONC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 310.17
+    },
+    {
+      "Symbol": "ADBE",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 224.37
+    },
+    {
+      "Symbol": "BTSG",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 68.36
+    },
+    {
+      "Symbol": "MKSI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 348.89
+    },
+    {
+      "Symbol": "VICR",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 256.96
+    },
+    {
+      "Symbol": "AEIS",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 299.96
+    },
+    {
+      "Symbol": "STX",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 814.93
+    },
+    {
+      "Symbol": "AMD",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 525.44
+    },
+    {
+      "Symbol": "PLTR",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 133.2
+    },
+    {
+      "Symbol": "CALM",
+      "Tier": "Single-Screen",
+      "Screens": "MagicFormula+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 84.89
+    },
+    {
+      "Symbol": "OMAB",
+      "Tier": "Single-Screen",
+      "Screens": "MagicFormula+Piotroski",
+      "N_Screens": 2,
+      "Piotroski": 7.0,
+      "LTP": 108.57
+    },
+    {
+      "Symbol": "KSPI",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan+MagicFormula",
+      "N_Screens": 2,
+      "Piotroski": 5.0,
+      "LTP": 89.5
+    },
+    {
+      "Symbol": "META",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 5.0,
+      "LTP": 676.81
+    },
+    {
+      "Symbol": "DXCM",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 6.0,
+      "LTP": 72.92
+    },
+    {
+      "Symbol": "MPWR",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 5.0,
+      "LTP": 1334.27
+    },
+    {
+      "Symbol": "FTNT",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 6.0,
+      "LTP": 163.68
+    },
+    {
+      "Symbol": "VCTR",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 5.0,
+      "LTP": 97.48
+    },
+    {
+      "Symbol": "NFLX",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 6.0,
+      "LTP": 73.79
+    },
+    {
+      "Symbol": "GOOGL",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 6.0,
+      "LTP": 370.46
+    },
+    {
+      "Symbol": "KYIV",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 6.0,
+      "LTP": 15.23
+    },
+    {
+      "Symbol": "MSFT",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 5.0,
+      "LTP": 395.79
+    },
+    {
+      "Symbol": "STRL",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+CoffeeCan",
+      "N_Screens": 2,
+      "Piotroski": 5.0,
+      "LTP": 661.79
+    },
+    {
+      "Symbol": "LULU",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan+MagicFormula",
+      "N_Screens": 2,
+      "Piotroski": 5.0,
+      "LTP": 117.25
+    },
+    {
+      "Symbol": "MRX",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel+MagicFormula",
+      "N_Screens": 2,
+      "Piotroski": 4.0,
+      "LTP": 64.67
+    },
+    {
+      "Symbol": "NDAQ",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 9.0,
+      "LTP": 91.18
+    },
+    {
+      "Symbol": "AGYS",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 9.0,
+      "LTP": 106.3
+    },
+    {
+      "Symbol": "MWH",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 9.0,
+      "LTP": 30.62
+    },
+    {
+      "Symbol": "BCPC",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 9.0,
+      "LTP": 162.83
+    },
+    {
+      "Symbol": "CASY",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 9.0,
+      "LTP": 815.36
+    },
+    {
+      "Symbol": "CMCSA",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 23.48
+    },
+    {
+      "Symbol": "DORM",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 138.88
+    },
+    {
+      "Symbol": "CHEF",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 97.98
+    },
+    {
+      "Symbol": "TIGO",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 95.44
+    },
+    {
+      "Symbol": "FOXA",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 55.53
+    },
+    {
+      "Symbol": "PEGA",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 31.11
+    },
+    {
+      "Symbol": "JBHT",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 273.75
+    },
+    {
+      "Symbol": "URBN",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 72.01
+    },
+    {
+      "Symbol": "MRVL",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 205.13
+    },
+    {
+      "Symbol": "DLTR",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 128.37
+    },
+    {
+      "Symbol": "HST",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 23.75
+    },
+    {
+      "Symbol": "OKTA",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 150.2
+    },
+    {
+      "Symbol": "TLIH",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 5.75
+    },
+    {
+      "Symbol": "ARXS",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 41.79
+    },
+    {
+      "Symbol": "KLAC",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 222.1
+    },
+    {
+      "Symbol": "NTAP",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 158.9
+    },
+    {
+      "Symbol": "GILD",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 132.07
+    },
+    {
+      "Symbol": "HTHT",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 42.6
+    },
+    {
+      "Symbol": "ADP",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 246.51
+    },
+    {
+      "Symbol": "PYPL",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 55.6
+    },
+    {
+      "Symbol": "FTDR",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 74.73
+    },
+    {
+      "Symbol": "CSCO",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 111.85
+    },
+    {
+      "Symbol": "CRWS",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 2.99
+    },
+    {
+      "Symbol": "AAPL",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 8.0,
+      "LTP": 327.61
+    },
+    {
+      "Symbol": "CTSH",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 42.99
+    },
+    {
+      "Symbol": "CTRM",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 2.04
+    },
+    {
+      "Symbol": "SUNE",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 2.65
+    },
+    {
+      "Symbol": "BOSC",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 4.27
+    },
+    {
+      "Symbol": "WMT",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 113.64
+    },
+    {
+      "Symbol": "WDAY",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 142.36
+    },
+    {
+      "Symbol": "SNY",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 43.66
+    },
+    {
+      "Symbol": "WBD",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 27.17
+    },
+    {
+      "Symbol": "ISRG",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 390.42
+    },
+    {
+      "Symbol": "TEAM",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 92.09
+    },
+    {
+      "Symbol": "ITRI",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 83.3
+    },
+    {
+      "Symbol": "JL",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 6.24
+    },
+    {
+      "Symbol": "SENEB",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 176.17
+    },
+    {
+      "Symbol": "JG",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 3.97
+    },
+    {
+      "Symbol": "HWC",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 77.36
+    },
+    {
+      "Symbol": "ILMN",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 186.79
+    },
+    {
+      "Symbol": "CHRW",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 197.75
+    },
+    {
+      "Symbol": "IRDM",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 48.66
+    },
+    {
+      "Symbol": "CIGI",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 100.74
+    },
+    {
+      "Symbol": "CARG",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 35.59
+    },
+    {
+      "Symbol": "NTES",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 129.8
+    },
+    {
+      "Symbol": "TVTX",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 56.9
+    },
+    {
+      "Symbol": "QLYS",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 157.57
+    },
+    {
+      "Symbol": "AMRX",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 17.22
+    },
+    {
+      "Symbol": "EROC",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 11.99
+    },
+    {
+      "Symbol": "SSRM",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 27.13
+    },
+    {
+      "Symbol": "ACIW",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 56.66
+    },
+    {
+      "Symbol": "GTX",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 31.52
+    },
+    {
+      "Symbol": "BKR",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 56.67
+    },
+    {
+      "Symbol": "MMSI",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 72.25
+    },
+    {
+      "Symbol": "MAR",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 368.06
+    },
+    {
+      "Symbol": "FFIV",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 420.07
+    },
+    {
+      "Symbol": "CHTR",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 131.41
+    },
+    {
+      "Symbol": "SBAC",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 187.23
+    },
+    {
+      "Symbol": "CTAS",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 192.46
+    },
+    {
+      "Symbol": "CENX",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 43.87
+    },
+    {
+      "Symbol": "VRSK",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 191.65
+    },
+    {
+      "Symbol": "OCTV",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 16.98
+    },
+    {
+      "Symbol": "VRSN",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 269.8
+    },
+    {
+      "Symbol": "NDSN",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 286.45
+    },
+    {
+      "Symbol": "MOG-B",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 389.6
+    },
+    {
+      "Symbol": "ERIC",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 9.99
+    },
+    {
+      "Symbol": "NWSA",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 27.86
+    },
+    {
+      "Symbol": "WHLRP",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 9.65
+    },
+    {
+      "Symbol": "TRI",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 95.31
+    },
+    {
+      "Symbol": "TTWO",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 242.38
+    },
+    {
+      "Symbol": "SKYW",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 99.12
+    },
+    {
+      "Symbol": "GFS",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 60.44
+    },
+    {
+      "Symbol": "REG",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 80.12
+    },
+    {
+      "Symbol": "AMGN",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 359.11
+    },
+    {
+      "Symbol": "IDXX",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 561.39
+    },
+    {
+      "Symbol": "UAL",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 119.37
+    },
+    {
+      "Symbol": "OLLI",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 66.33
+    },
+    {
+      "Symbol": "DRS",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 43.8
+    },
+    {
+      "Symbol": "CCEP",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 105.09
+    },
+    {
+      "Symbol": "FAST",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 44.96
+    },
+    {
+      "Symbol": "ORLY",
+      "Tier": "Single-Screen",
+      "Screens": "Piotroski",
+      "N_Screens": 1,
+      "Piotroski": 7.0,
+      "LTP": 83.34
+    },
+    {
+      "Symbol": "WSE",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 12.9
+    },
+    {
+      "Symbol": "FUTU",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 99.23
+    },
+    {
+      "Symbol": "CPRX",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 31.49
+    },
+    {
+      "Symbol": "PLMR",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 132.1
+    },
+    {
+      "Symbol": "DLO",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 14.82
+    },
+    {
+      "Symbol": "ACGL",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 98.38
+    },
+    {
+      "Symbol": "GMAB",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 29.11
+    },
+    {
+      "Symbol": "MEDP",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 529.98
+    },
+    {
+      "Symbol": "UTHR",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 532.72
+    },
+    {
+      "Symbol": "NVMI",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 466.64
+    },
+    {
+      "Symbol": "SNPS",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 423.53
+    },
+    {
+      "Symbol": "TXRH",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 191.04
+    },
+    {
+      "Symbol": "ABNB",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 148.51
+    },
+    {
+      "Symbol": "HLNE",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 85.5
+    },
+    {
+      "Symbol": "OPCH",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 21.79
+    },
+    {
+      "Symbol": "IPAR",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 120.21
+    },
+    {
+      "Symbol": "LAUR",
+      "Tier": "Single-Screen",
+      "Screens": "CoffeeCan",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 37.83
+    },
+    {
+      "Symbol": "FIGS",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": NaN,
+      "LTP": 10.07
+    },
+    {
+      "Symbol": "AFRM",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 81.36
+    },
+    {
+      "Symbol": "ONDS",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 6.92
+    },
+    {
+      "Symbol": "NBIX",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 171.44
+    },
+    {
+      "Symbol": "PENG",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 71.85
+    },
+    {
+      "Symbol": "CEG",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 257.79
+    },
+    {
+      "Symbol": "ALNY",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 277.37
+    },
+    {
+      "Symbol": "LFTO",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 23.44
+    },
+    {
+      "Symbol": "WSBC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 39.49
+    },
+    {
+      "Symbol": "FWONA",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 91.01
+    },
+    {
+      "Symbol": "ASND",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 267.27
+    },
+    {
+      "Symbol": "CMBT",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 1.0,
+      "LTP": 15.55
+    },
+    {
+      "Symbol": "BLLN",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 128.25
+    },
+    {
+      "Symbol": "EQT",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 49.32
+    },
+    {
+      "Symbol": "WDC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 510.15
+    },
+    {
+      "Symbol": "AUGO",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 55.86
+    },
+    {
+      "Symbol": "GRAB",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 3.82
+    },
+    {
+      "Symbol": "DIOD",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 95.23
+    },
+    {
+      "Symbol": "JAZZ",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 237.98
+    },
+    {
+      "Symbol": "ROKU",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 142.88
+    },
+    {
+      "Symbol": "WMG",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 28.15
+    },
+    {
+      "Symbol": "CRDO",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 224.76
+    },
+    {
+      "Symbol": "TWLO",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": NaN,
+      "LTP": 212.56
+    },
+    {
+      "Symbol": "SMCI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 26.92
+    },
+    {
+      "Symbol": "LSCC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 130.4
+    },
+    {
+      "Symbol": "RELY",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 24.61
+    },
+    {
+      "Symbol": "TER",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 337.57
+    },
+    {
+      "Symbol": "AMKR",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 66.79
+    },
+    {
+      "Symbol": "SNDK",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 1608.0
+    },
+    {
+      "Symbol": "ELA",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 21.53
+    },
+    {
+      "Symbol": "GROY",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": NaN,
+      "LTP": 2.58
+    },
+    {
+      "Symbol": "ALHC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 20.86
+    },
+    {
+      "Symbol": "BKNG",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 181.81
+    },
+    {
+      "Symbol": "NVDA",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 210.43
+    },
+    {
+      "Symbol": "SYM",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 42.59
+    },
+    {
+      "Symbol": "HSAI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 15.69
+    },
+    {
+      "Symbol": "MCHP",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 85.11
+    },
+    {
+      "Symbol": "HAFN",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": NaN,
+      "LTP": 7.52
+    },
+    {
+      "Symbol": "FBYDW",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 2.57
+    },
+    {
+      "Symbol": "LGN",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 70.92
+    },
+    {
+      "Symbol": "KNSA",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 61.48
+    },
+    {
+      "Symbol": "ALAB",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 345.35
+    },
+    {
+      "Symbol": "RGLD",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 193.99
+    },
+    {
+      "Symbol": "TLN",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 398.52
+    },
+    {
+      "Symbol": "AUB-PA",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": NaN,
+      "LTP": 24.41
+    },
+    {
+      "Symbol": "SOFI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 2.0,
+      "LTP": 17.92
+    },
+    {
+      "Symbol": "EBC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 22.67
+    },
+    {
+      "Symbol": "CRWD",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 207.41
+    },
+    {
+      "Symbol": "CSGP",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 28.35
+    },
+    {
+      "Symbol": "ROAD",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 104.25
+    },
+    {
+      "Symbol": "ARGX",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 863.99
+    },
+    {
+      "Symbol": "DDOG",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 264.7
+    },
+    {
+      "Symbol": "MDB",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 332.61
+    },
+    {
+      "Symbol": "SFNC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 23.24
+    },
+    {
+      "Symbol": "DAVEW",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 3.55
+    },
+    {
+      "Symbol": "DAVE",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 436.82
+    },
+    {
+      "Symbol": "KYIVW",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 6.23
+    },
+    {
+      "Symbol": "AXON",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 536.16
+    },
+    {
+      "Symbol": "INCY",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 115.2
+    },
+    {
+      "Symbol": "INDV",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 41.02
+    },
+    {
+      "Symbol": "STLD",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 233.96
+    },
+    {
+      "Symbol": "INDB",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 85.4
+    },
+    {
+      "Symbol": "AMZN",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 254.57
+    },
+    {
+      "Symbol": "TSEM",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 250.63
+    },
+    {
+      "Symbol": "COCO",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 75.96
+    },
+    {
+      "Symbol": "TCBI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 103.63
+    },
+    {
+      "Symbol": "IESC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 629.46
+    },
+    {
+      "Symbol": "BGC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 11.15
+    },
+    {
+      "Symbol": "ARM",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 272.77
+    },
+    {
+      "Symbol": "WAY",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 22.53
+    },
+    {
+      "Symbol": "MOD",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": NaN,
+      "LTP": 230.45
+    },
+    {
+      "Symbol": "MTSI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 291.17
+    },
+    {
+      "Symbol": "SANM",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 207.44
+    },
+    {
+      "Symbol": "FFBC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 34.85
+    },
+    {
+      "Symbol": "WDFC",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 248.49
+    },
+    {
+      "Symbol": "ROST",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 227.45
+    },
+    {
+      "Symbol": "APPF",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 4.0,
+      "LTP": 175.06
+    },
+    {
+      "Symbol": "FTAI",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 213.57
+    },
+    {
+      "Symbol": "VNOM",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 43.23
+    },
+    {
+      "Symbol": "MS-PP",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": NaN,
+      "LTP": 25.08
+    },
+    {
+      "Symbol": "MS-PL",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": NaN,
+      "LTP": 19.33
+    },
+    {
+      "Symbol": "MNST",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 6.0,
+      "LTP": 98.44
+    },
+    {
+      "Symbol": "PTRN",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 28.9
+    },
+    {
+      "Symbol": "CMTV",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 5.0,
+      "LTP": 39.42
+    },
+    {
+      "Symbol": "DUOL",
+      "Tier": "Single-Screen",
+      "Screens": "BullCartel",
+      "N_Screens": 1,
+      "Piotroski": 3.0,
+      "LTP": 130.09
+    }
+  ],
+  "convergence": [
+    {
+      "Symbol": "APP",
+      "Tier": "Single-Screen",
+      "Fundamental": "STRONG",
+      "News": "NEUTRAL",
+      "News_Score": 0.0,
+      "N_Articles": 1,
+      "Convergence": "\u2014 news neutral",
+      "Top_Headline": "Stocks making the biggest moves midday: Nio, Braiin, AppLovin, SpaceX, SK Hynix "
+    }
+  ],
+  "talk": {
+    "ATAT": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "AVGO": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "CDNS": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "ADSK": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "PTC": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "WWD": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "INTU": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "APP": {
+      "score": 0.0,
+      "label": "NEUTRAL",
+      "n_articles": 1,
+      "headlines": [
+        {
+          "title": "Stocks making the biggest moves midday: Nio, Braiin, AppLovin, SpaceX, SK Hynix & more",
+          "sentiment": 0.0,
+          "source": "USRSS:CNBC"
+        }
+      ]
+    },
+    "TW": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "ASML": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "LFST": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "ADI": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "RYAAY": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "PCTY": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "EXE": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "ESLT": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "GLNG": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "SMTC": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "TXN": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "NBIS": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "MU": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "GEN": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "LRCX": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "EXLS": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    },
+    "GLBE": {
+      "score": 0.0,
+      "label": "NO_DATA",
+      "n_articles": 0,
+      "headlines": []
+    }
+  }
+}

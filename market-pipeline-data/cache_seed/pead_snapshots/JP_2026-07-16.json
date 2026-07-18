@@ -1,0 +1,186 @@
+{
+  "market": "JP",
+  "n_symbols": 447,
+  "n_events": 621,
+  "date_is_proxy": false,
+  "pead_summary": {
+    "1mo_positive_surprise": {
+      "n_events": 328,
+      "mean_car_pct": 0.0639,
+      "tstat": 0.155,
+      "hit_rate": 0.5
+    },
+    "1mo_negative_surprise": {
+      "n_events": 141,
+      "mean_car_pct": 2.1052,
+      "tstat": 2.536,
+      "hit_rate": 0.383
+    },
+    "2mo_positive_surprise": {
+      "n_events": 324,
+      "mean_car_pct": 0.6005,
+      "tstat": 0.778,
+      "hit_rate": 0.4784
+    },
+    "2mo_negative_surprise": {
+      "n_events": 139,
+      "mean_car_pct": 3.345,
+      "tstat": 2.143,
+      "hit_rate": 0.3957
+    },
+    "3mo_positive_surprise": {
+      "n_events": 323,
+      "mean_car_pct": 1.1868,
+      "tstat": 1.305,
+      "hit_rate": 0.5263
+    },
+    "3mo_negative_surprise": {
+      "n_events": 139,
+      "mean_car_pct": 3.182,
+      "tstat": 1.796,
+      "hit_rate": 0.4245
+    },
+    "1mo_pos_minus_neg_spread_pct": -2.0413,
+    "2mo_pos_minus_neg_spread_pct": -2.7445,
+    "3mo_pos_minus_neg_spread_pct": -1.9952
+  },
+  "n_leader_candidates_tested": 207,
+  "n_leaders_fdr_significant_q10": 0,
+  "top_sector_leaders": [
+    {
+      "ticker": "1332.T",
+      "sector": "Consumer Defensive",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.6911,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1515.T",
+      "sector": "Basic Materials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3453,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1812.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3852,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1860.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3926,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1861.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3886,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1885.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3864,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1909.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3977,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1925.T",
+      "sector": "Real Estate",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.7894,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1942.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3911,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1944.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3939,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "1961.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.4026,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "2127.T",
+      "sector": "Financial Services",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.7256,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "2222.T",
+      "sector": "Consumer Defensive",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.731,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "2331.T",
+      "sector": "Industrials",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.3911,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "2585.T",
+      "sector": "Consumer Defensive",
+      "n_events": 3,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.6624,
+      "binomial_pvalue": 0.125,
+      "fdr_significant": false
+    }
+  ]
+}

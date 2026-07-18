@@ -1,5 +1,13 @@
 # working-files
 
+**Repurposed 2026-07-18** as a data reference repo — a place to check when a
+piece of collected/computed market data is hard to re-derive (rate-limited
+API, long collection run, expensive computation) rather than a project home.
+See `market-pipeline-data/` below for the current content. The rest of this
+README is the earlier triage history, kept for context.
+
+---
+
 **This repo is mid-cleanup, not a real project.** It was a bulk-import
 dumping ground (2026-07-13, 2 commits) containing near-duplicate copies of
 several other repos plus a few genuinely orphaned tools — a repo hygiene

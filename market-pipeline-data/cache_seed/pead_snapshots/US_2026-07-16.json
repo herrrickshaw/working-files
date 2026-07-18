@@ -1,0 +1,186 @@
+{
+  "market": "US",
+  "n_symbols": 680,
+  "n_events": 3329,
+  "date_is_proxy": false,
+  "pead_summary": {
+    "1mo_positive_surprise": {
+      "n_events": 1335,
+      "mean_car_pct": 0.4389,
+      "tstat": 0.809,
+      "hit_rate": 0.5191
+    },
+    "1mo_negative_surprise": {
+      "n_events": 1016,
+      "mean_car_pct": 0.2169,
+      "tstat": 0.259,
+      "hit_rate": 0.5276
+    },
+    "2mo_positive_surprise": {
+      "n_events": 1330,
+      "mean_car_pct": 2.6008,
+      "tstat": 3.578,
+      "hit_rate": 0.5308
+    },
+    "2mo_negative_surprise": {
+      "n_events": 1015,
+      "mean_car_pct": 3.4725,
+      "tstat": 3.141,
+      "hit_rate": 0.4759
+    },
+    "3mo_positive_surprise": {
+      "n_events": 1327,
+      "mean_car_pct": 4.3771,
+      "tstat": 4.851,
+      "hit_rate": 0.5411
+    },
+    "3mo_negative_surprise": {
+      "n_events": 1015,
+      "mean_car_pct": 3.6325,
+      "tstat": 2.753,
+      "hit_rate": 0.4828
+    },
+    "1mo_pos_minus_neg_spread_pct": 0.222,
+    "2mo_pos_minus_neg_spread_pct": -0.8717,
+    "3mo_pos_minus_neg_spread_pct": 0.7446
+  },
+  "n_leader_candidates_tested": 261,
+  "n_leaders_fdr_significant_q10": 0,
+  "top_sector_leaders": [
+    {
+      "ticker": "QDEL",
+      "sector": "Healthcare",
+      "n_events": 5,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 0.7663,
+      "binomial_pvalue": 0.03125,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "CL",
+      "sector": "Consumer Defensive",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.818,
+      "mean_abs_peer_reaction_pct": 0.7653,
+      "binomial_pvalue": 0.03271,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "MCD",
+      "sector": "Consumer Cyclical",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.818,
+      "mean_abs_peer_reaction_pct": 1.2187,
+      "binomial_pvalue": 0.03271,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "MMM",
+      "sector": "Industrials",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.818,
+      "mean_abs_peer_reaction_pct": 1.2033,
+      "binomial_pvalue": 0.03271,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "UBER",
+      "sector": "Technology",
+      "n_events": 8,
+      "same_direction_hit_rate": 0.875,
+      "mean_abs_peer_reaction_pct": 2.5797,
+      "binomial_pvalue": 0.03516,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "ROKU",
+      "sector": "Communication Services",
+      "n_events": 10,
+      "same_direction_hit_rate": 0.8,
+      "mean_abs_peer_reaction_pct": 1.3591,
+      "binomial_pvalue": 0.05469,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "ALXO",
+      "sector": "Healthcare",
+      "n_events": 7,
+      "same_direction_hit_rate": 0.857,
+      "mean_abs_peer_reaction_pct": 1.6141,
+      "binomial_pvalue": 0.0625,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "VERX",
+      "sector": "Technology",
+      "n_events": 4,
+      "same_direction_hit_rate": 1.0,
+      "mean_abs_peer_reaction_pct": 2.3554,
+      "binomial_pvalue": 0.0625,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "ADSK",
+      "sector": "Technology",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.727,
+      "mean_abs_peer_reaction_pct": 2.5726,
+      "binomial_pvalue": 0.11328,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "ADUS",
+      "sector": "Healthcare",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.727,
+      "mean_abs_peer_reaction_pct": 1.5176,
+      "binomial_pvalue": 0.11328,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "ANDE",
+      "sector": "Consumer Defensive",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.727,
+      "mean_abs_peer_reaction_pct": 0.9021,
+      "binomial_pvalue": 0.11328,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "NAGE",
+      "sector": "Healthcare",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.727,
+      "mean_abs_peer_reaction_pct": 1.1771,
+      "binomial_pvalue": 0.11328,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "PRLB",
+      "sector": "Industrials",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.727,
+      "mean_abs_peer_reaction_pct": 1.5155,
+      "binomial_pvalue": 0.11328,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "SAH",
+      "sector": "Consumer Cyclical",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.727,
+      "mean_abs_peer_reaction_pct": 0.7896,
+      "binomial_pvalue": 0.11328,
+      "fdr_significant": false
+    },
+    {
+      "ticker": "TT",
+      "sector": "Industrials",
+      "n_events": 11,
+      "same_direction_hit_rate": 0.727,
+      "mean_abs_peer_reaction_pct": 0.9578,
+      "binomial_pvalue": 0.11328,
+      "fdr_significant": false
+    }
+  ]
+}

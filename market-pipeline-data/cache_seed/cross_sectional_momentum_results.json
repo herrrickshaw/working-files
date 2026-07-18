@@ -1,0 +1,158 @@
+[
+  {
+    "market": "IN",
+    "n_symbols": 300,
+    "n_sectors": 11,
+    "n_unclassified": 12,
+    "n_dates": 2596,
+    "3d": {
+      "n_periods": 864,
+      "mean_winner_fwd_ret_pct": 0.1747,
+      "mean_loser_fwd_ret_pct": 0.322,
+      "mean_spread_pct": -0.1473,
+      "spread_tstat": -3.36,
+      "hit_rate": 0.4572
+    },
+    "1w": {
+      "n_periods": 518,
+      "mean_winner_fwd_ret_pct": 0.2144,
+      "mean_loser_fwd_ret_pct": 0.6055,
+      "mean_spread_pct": -0.3911,
+      "spread_tstat": -5.437,
+      "hit_rate": 0.4131
+    },
+    "2w": {
+      "n_periods": 258,
+      "mean_winner_fwd_ret_pct": 0.6239,
+      "mean_loser_fwd_ret_pct": 1.11,
+      "mean_spread_pct": -0.4861,
+      "spread_tstat": -3.246,
+      "hit_rate": 0.4186
+    },
+    "1mo": {
+      "n_periods": 122,
+      "mean_winner_fwd_ret_pct": 1.8258,
+      "mean_loser_fwd_ret_pct": 2.0051,
+      "mean_spread_pct": -0.1792,
+      "spread_tstat": -0.647,
+      "hit_rate": 0.5246
+    }
+  },
+  {
+    "market": "US",
+    "n_symbols": 300,
+    "n_sectors": 11,
+    "n_unclassified": 9,
+    "n_dates": 2645,
+    "3d": {
+      "n_periods": 880,
+      "mean_winner_fwd_ret_pct": 0.2278,
+      "mean_loser_fwd_ret_pct": 0.2836,
+      "mean_spread_pct": -0.0558,
+      "spread_tstat": -1.135,
+      "hit_rate": 0.483
+    },
+    "1w": {
+      "n_periods": 527,
+      "mean_winner_fwd_ret_pct": 0.3843,
+      "mean_loser_fwd_ret_pct": 0.4732,
+      "mean_spread_pct": -0.0889,
+      "spread_tstat": -1.071,
+      "hit_rate": 0.5009
+    },
+    "2w": {
+      "n_periods": 263,
+      "mean_winner_fwd_ret_pct": 0.91,
+      "mean_loser_fwd_ret_pct": 0.9509,
+      "mean_spread_pct": -0.0409,
+      "spread_tstat": -0.224,
+      "hit_rate": 0.5133
+    },
+    "1mo": {
+      "n_periods": 124,
+      "mean_winner_fwd_ret_pct": 1.6305,
+      "mean_loser_fwd_ret_pct": 1.8719,
+      "mean_spread_pct": -0.2413,
+      "spread_tstat": -0.629,
+      "hit_rate": 0.4758
+    }
+  },
+  {
+    "market": "JP",
+    "n_symbols": 300,
+    "n_sectors": 11,
+    "n_unclassified": 11,
+    "n_dates": 2592,
+    "3d": {
+      "n_periods": 862,
+      "mean_winner_fwd_ret_pct": 0.1627,
+      "mean_loser_fwd_ret_pct": 0.2366,
+      "mean_spread_pct": -0.0739,
+      "spread_tstat": -1.696,
+      "hit_rate": 0.4501
+    },
+    "1w": {
+      "n_periods": 517,
+      "mean_winner_fwd_ret_pct": 0.2851,
+      "mean_loser_fwd_ret_pct": 0.3572,
+      "mean_spread_pct": -0.0721,
+      "spread_tstat": -1.093,
+      "hit_rate": 0.4855
+    },
+    "2w": {
+      "n_periods": 258,
+      "mean_winner_fwd_ret_pct": 0.6093,
+      "mean_loser_fwd_ret_pct": 0.6971,
+      "mean_spread_pct": -0.0878,
+      "spread_tstat": -0.767,
+      "hit_rate": 0.4922
+    },
+    "1mo": {
+      "n_periods": 122,
+      "mean_winner_fwd_ret_pct": 1.3028,
+      "mean_loser_fwd_ret_pct": 1.4426,
+      "mean_spread_pct": -0.1398,
+      "spread_tstat": -0.49,
+      "hit_rate": 0.541
+    }
+  },
+  {
+    "market": "KR",
+    "n_symbols": 300,
+    "n_sectors": 10,
+    "n_unclassified": 42,
+    "n_dates": 2578,
+    "3d": {
+      "n_periods": 858,
+      "mean_winner_fwd_ret_pct": 0.1822,
+      "mean_loser_fwd_ret_pct": 0.3704,
+      "mean_spread_pct": -0.1881,
+      "spread_tstat": -3.94,
+      "hit_rate": 0.4441
+    },
+    "1w": {
+      "n_periods": 514,
+      "mean_winner_fwd_ret_pct": 0.3027,
+      "mean_loser_fwd_ret_pct": 0.5528,
+      "mean_spread_pct": -0.2501,
+      "spread_tstat": -3.06,
+      "hit_rate": 0.4397
+    },
+    "2w": {
+      "n_periods": 256,
+      "mean_winner_fwd_ret_pct": 0.872,
+      "mean_loser_fwd_ret_pct": 0.8994,
+      "mean_spread_pct": -0.0274,
+      "spread_tstat": -0.17,
+      "hit_rate": 0.4883
+    },
+    "1mo": {
+      "n_periods": 121,
+      "mean_winner_fwd_ret_pct": 1.7872,
+      "mean_loser_fwd_ret_pct": 1.8982,
+      "mean_spread_pct": -0.111,
+      "spread_tstat": -0.32,
+      "hit_rate": 0.4959
+    }
+  }
+]

@@ -1,0 +1,10 @@
+IN: no new filings since 2026-06-29
+US: no new filings since 2026-07-15
+JP: no new filings since 2026-06-29
+KR: no new filings since 2026-06-29
+
+No markets had new filings — nothing to update.
+[IN] 210 symbols with a next earnings date -> cache_seed/earnings_key_dates/IN.parquet
+[US] 549 symbols with a next earnings date -> cache_seed/earnings_key_dates/US.parquet
+[JP] 289 symbols with a next earnings date -> cache_seed/earnings_key_dates/JP.parquet
+[KR] 7 symbols with a next earnings date -> cache_seed/earnings_key_dates/KR.parquet
